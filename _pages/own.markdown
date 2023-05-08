@@ -5,7 +5,10 @@ permalink: /gallery/own/
 ---
 
 <img src="images/ascii-me.png" width="30%">
+
 Kinda looks like it?
+
+---
 
 <img src="images/mosque.jpg" width="30%">
 

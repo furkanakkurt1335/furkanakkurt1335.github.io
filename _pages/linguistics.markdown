@@ -28,8 +28,19 @@ Persian, Tajik and Dari (in Afghanistan) are dialects of the same language.
 
 /k/ & /q/ distinguished in Old Turkic, unlike now. Also they had different glyphs for the same consonant
 depending on if it followed a back or front vowel. Turkic people have been obsessed with vowels and their
-harmony at least since 800 AD. I consider myself Turkic as well.  
-Reporter: Do you consider yourself militant? - Malcolm: I consider myself Malcolm. 😂😉 [Link 1](https://youtu.be/56MFtl7WGHk) [Link 2](https://youtu.be/zn_67oRe_-A?t=178)
+harmony at least since 800 AD. I consider myself Turkic as well.
+
+---
+
+Reporter
+> Do you consider yourself militant?
+
+Malcolm
+> I consider myself Malcolm.
+
+😂😉 [Link 1](https://youtu.be/56MFtl7WGHk) [Link 2](https://youtu.be/zn_67oRe_-A?t=178)
+
+---
 
 Drums and 'daf' included in percussion instruments, it's by striking (_percutere_): ![percutere](images/percutere.png)
 

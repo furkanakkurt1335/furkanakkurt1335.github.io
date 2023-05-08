@@ -4,16 +4,21 @@ title: Crow Appreciation
 permalink: /gallery/animal-appreciation/crow/
 ---
 
-![crow-snow.jpg](images/crow-snow.jpg)
+![crow-snow](images/crow-snow.jpg)
 
-![anime-1.jpg](images/anime-1.jpg)
+![anime-1](images/anime-1.jpg)
 
-![anime-2.jpg](images/anime-2.jpg)
+![anime-2](images/anime-2.jpg)
 
-Representative Audio  
+---
+
+Representative Audio
+
 <video controls style="width: 80%;">
     <source src="videos/crow.mp4" type="video/mp4">
 </video>
+
+---
 
 ![1](images/1.png)
 

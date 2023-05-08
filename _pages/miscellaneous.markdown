@@ -4,6 +4,6 @@ title: Miscellaneous Images
 permalink: /gallery/miscellaneous/
 ---
 
-![south.jpg](images/south.jpg)
+![south](images/south.jpg)
 
-![ali-box.png](images/ali-box.png)
+![ali-box](images/ali-box.png)
