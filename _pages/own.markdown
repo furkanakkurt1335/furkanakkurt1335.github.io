@@ -4,15 +4,15 @@ title: Own Images
 permalink: /gallery/own/
 ---
 
-![ascii-me](images/ascii-me.png)  
+<img src="images/ascii-me.png" width="30%">
 Kinda looks like it?
 
-![mosque](images/mosque.jpg)
+<img src="images/mosque.jpg" width="30%">
 
-![samsa](images/samsa.jpg)
+<img src="images/samsa.jpg" width="30%">
 
-![bike](images/bike.jpg)
+<img src="images/bike.jpg" width="100%">
 
-![me-front-of-bike](images/me-front-of-bike.jpg)
+<img src="images/me-front-of-bike.jpg" width="50%">
 
-![school](images/school.jpg)
+<img src="images/school.jpg" width="30%">
