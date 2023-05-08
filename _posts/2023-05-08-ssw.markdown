@@ -1,0 +1,8 @@
+---
+layout: post
+title: SSW Blog Link
+date: 2023-05-08
+tags: social-semantic-web
+---
+
+I have written some blog posts for the course CMPE58H at Boğaziçi University. You can find them [here](https://furkanakkurt5204.gitlab.io/personal).
