@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: Master of Science
-      institution: <a href="https://boun.edu.tr">Boğaziçi University</a>, Istanbul, Turkey
+      institution: <a href="https://cmpe.boun.edu.tr>">Department of Computer Engineering</a>, <a href="https://boun.edu.tr">Boğaziçi University</a>, Istanbul, Turkey
       year: pursuing
       description:
         - Advisor&#58; <a href="https://cmpe.boun.edu.tr/people/suzan.uskudarli">Susan Uskudarli</a>
