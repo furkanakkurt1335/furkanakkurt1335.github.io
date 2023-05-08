@@ -8,8 +8,9 @@ permalink: /movies/
 
 ### 3/25
 
-Pachinko  
-![girl](images/girl.jpg)
+Pachinko
+
+<img src="images/girl.jpg" width="100%">
 
 ## 2021
 
@@ -17,7 +18,7 @@ Pachinko
 
 Blood Brothers, Malcolm X and Muhammad Ali, Netflix Documentary (2021); What kind of language is that, `boy`?
 
-![lawyer](images/ali lawyer.png)
+<img src="images/ali lawyer.png" width="100%">
 
 ὏ȷૻշͧ☟ᜱ㞺ⰻշྰ⿌☟ⰻȷና⿌☟ⰻⅡናⰻᛗናና㞺Ⅱ㟺 [<abbr title="Cluck cluck!">decipher that</abbr>]
 
@@ -30,22 +31,28 @@ Blood Brothers, Malcolm X and Muhammad Ali, Netflix Documentary (2021); What kin
 
 Watching 'Wife of a Spy (2020)' [film of the day on MUBI], 15:42  
 1h27m, is there a twist coming right about now 😶, 18:21  
-Do we say it like this in Turkey? :  
+Do we say it like this in Turkey? :
+
 <video controls style="width:80%">
     <source src="videos/hayhay.mp4" type="video/mp4">
-</video>  
+</video>
+
 Finished the film. So what really happened to the _spy_ though? And did he snitch on his wife, by _pointing to the ship_? Can Kurosawa-san answer these questions? 🤷‍♂️
 
 ### 9/6
 
 Just finished Chess from Explained by Vox. I learned that the players' blood pressure can be as high as marathon runners. What? 13:09
 
-Just watching this documentary on Amazon Prime called "One Child Nation" (2019). A rural villager lady talking about the policy back then, and smiling too:  
-![sterilization](images/villager, sterilization.png)  
+Just watching this documentary on Amazon Prime called "One Child Nation" (2019). A rural villager lady talking about the policy back then, and smiling too:
+
+<img src="images/villager, sterilization.png" width="100%">
+
 I can't even post what the old village officer said he saw, in a following scene. "It was really fucked up."  
 I don't know if I can continue this doc, 44 min in.  
-Okay, just finished it. No words. I'll leave a picture here:  
-![wall](images/writing, wall.jpg)  
+Okay, just finished it. No words. I'll leave a picture here:
+
+<img src="images/writing, wall.jpg" width="100%">
+
 So much like _Animal Farm_'s barn writings on the wall, seems animals can write in real life too. (must be pigs)  
 
 > "My sight is failing," she said finally. "Even when I was young I could not have read what was written there. But it appears to me that that wall looks different. Are the Seven Commandments the same as they used to be, Benjamin?"  
