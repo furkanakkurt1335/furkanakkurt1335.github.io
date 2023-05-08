@@ -91,22 +91,19 @@
   contents:
     - title: SCOL 2023
       year: May 2023
-      location: Istanbul, Turkey
       description:
-        - Student Conference on Linguistics
+        - Student Conference on Linguistics, Istanbul, Turkey
         - Presented <i>Collaborative Annotation Tool</i>.
         - <a href="https://youtu.be/BtRVqgtxK8c">Video</a>.
     - title: EACL 2023
       year: May 2023
-      location: Dubrovnik, Croatia
       description:
-        - The 17th Conference of the European Chapter of the Association for Computational Linguistics
+        - The 17th Conference of the European Chapter of the Association for Computational Linguistics, Dubrovnik, Croatia
         - Presented <i>TULAP - An Accessible and Sustainable Platform for Turkish Natural Language Processing Resources</i>.
     - title: ALTNLP 2022
       year: June 2022
-      location: Koper, Slovenia
       description: 
-        - The International Conference and Workshop on Agglutinative Language Technologies as a challenge of Natural Language Processing
+        - The International Conference and Workshop on Agglutinative Language Technologies as a challenge of Natural Language Processing, Koper, Slovenia
         - Presented <i>BoAT v2 - A Web-Based Dependency Annotation Tool with Focus on Agglutinative Languages</i>.
 
 - title: Open Source Contributions
