@@ -89,6 +89,13 @@
 - title: Conferences, Presentations
   type: time_table
   contents:
+    - title: SCOL 2023
+      year: May 2023
+      location: Istanbul, Turkey
+      description:
+        - Student Conference on Linguistics
+        - Presented <i>Collaborative Annotation Tool</i>.
+        - <a href="https://youtu.be/BtRVqgtxK8c">Video</a>.
     - title: EACL 2023
       year: May 2023
       location: Dubrovnik, Croatia
