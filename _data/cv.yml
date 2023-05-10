@@ -86,7 +86,7 @@
         - ALTNLP 2022
         - <a href="https://ceur-ws.org/Vol-3315/paper08.pdf">PDF</a>
 
-- title: Conferences, Presentations
+- title: Conferences
   type: time_table
   contents:
     - title: SCOL 2023
@@ -99,7 +99,7 @@
       year: May 2023
       description:
         - The 17th Conference of the European Chapter of the Association for Computational Linguistics, Dubrovnik, Croatia
-        - Presented <i>TULAP - An Accessible and Sustainable Platform for Turkish Natural Language Processing Resources</i>.
+        - Presented <i>TULAP - An Accessible and Sustainable Platform for Turkish Natural Language Processing Resources</i>, system demonstration.
     - title: ALTNLP 2022
       year: June 2022
       description: 
