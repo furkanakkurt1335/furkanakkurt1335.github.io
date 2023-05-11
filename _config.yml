@@ -268,8 +268,8 @@ display_tags: ['linguistics'] # this tags will be dispalyed on the front page of
 
 scholar:
 
-  last_name: [Akkurt]
-  first_name: [Furkan]
+  last_name: [Akkurt, Furkan Akkurt]
+  first_name: [Furkan, Salih]
 
   style: apa
   locale: en
