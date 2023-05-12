@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://furkanakkurt1335.github.io/linguistics/pronunciation-spelling-alphabets/</loc>
+<loc>https://furkanakkurt1335.github.io/blog/2021/pronunciation/</loc>
 <lastmod>2021-11-19T00:00:00+00:00</lastmod>
 </url>
 <url>
@@ -70,6 +70,9 @@
 </url>
 <url>
 <loc>https://furkanakkurt1335.github.io/thoughts/</loc>
+</url>
+<url>
+<loc>https://furkanakkurt1335.github.io/blog/tag/linguistics/</loc>
 </url>
 <url>
 <loc>https://furkanakkurt1335.github.io/blog/tag/social-semantic-web/</loc>
