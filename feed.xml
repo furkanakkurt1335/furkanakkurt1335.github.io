@@ -1,5 +1,312 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://furkanakkurt1335.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://furkanakkurt1335.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-05-12T13:56:47+00:00</updated><id>https://furkanakkurt1335.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal page.
-</subtitle><entry><title type="html">SSW Blog Link</title><link href="https://furkanakkurt1335.github.io/blog/2023/ssw/" rel="alternate" type="text/html" title="SSW Blog Link" /><published>2023-05-08T00:00:00+00:00</published><updated>2023-05-08T00:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2023/ssw</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2023/ssw/"><![CDATA[<p>I have written some blog posts for the course CMPE58H at Boğaziçi University. You can find them <a href="https://furkanakkurt5204.gitlab.io/personal">here</a>.</p>]]></content><author><name></name></author><category term="social-semantic-web" /><summary type="html"><![CDATA[I have written some blog posts for the course CMPE58H at Boğaziçi University. You can find them here.]]></summary></entry><entry><title type="html">A Case For Pronunciation Over Spelling, Or Multitude Of Alphabets</title><link href="https://furkanakkurt1335.github.io/blog/2021/pronunciation/" rel="alternate" type="text/html" title="A Case For Pronunciation Over Spelling, Or Multitude Of Alphabets" /><published>2021-11-19T00:00:00+00:00</published><updated>2021-11-19T00:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2021/pronunciation</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2021/pronunciation/"><![CDATA[<p>Istanbul</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://furkanakkurt1335.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://furkanakkurt1335.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-05-12T14:19:05+00:00</updated><id>https://furkanakkurt1335.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal page.
+</subtitle><entry><title type="html">Interlingua</title><link href="https://furkanakkurt1335.github.io/blog/2022/interlingua/" rel="alternate" type="text/html" title="Interlingua" /><published>2022-12-21T21:49:14+00:00</published><updated>2022-12-21T21:49:14+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2022/interlingua</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2022/interlingua/"><![CDATA[<p>Originally posted here as part of the <a href="https://cmpe.boun.edu.tr/courses/cmpe58h">CMPE58H</a> course: <code class="language-plaintext highlighter-rouge">https://furkanakkurt5204.gitlab.io/personal/ontology/2022/12/21/interlingua</code>.</p>
+
+<hr />
+
+<p>The EuroWordNet project<sup>1</sup> aimed to “develop a multilingual database with wordnets in several European languages”.
+It was started in 1996 and its project manager was Piek Vossen<sup>2</sup>.
+They produced wordnets for many European languages as a part of this project.
+The files were not open to the public and they had Euro rates per synsets.</p>
+
+<p>Continuing with this idea, Mr Vossen founded the Global WordNet Association<sup>3</sup> (GWA).
+GWA has the Collaborative InterLingual Index<sup>4</sup> (CILI) which provides mappings from their generated URIs of concepts to the Princeton WordNet’s<sup>5</sup> URIs.
+So these concepts can be linked to wordnets of other languages by a relation.</p>
+
+<p><strong>Example from CILI</strong>:</p>
+
+<pre><code class="language-rdf">&lt;i23197&gt;	a	&lt;Concept&gt; ;
+	skos:definition	"make neat, smart, or trim"@en ;
+	dc:source	pwn30:00293977-v .
+
+&lt;i23198&gt;	a	&lt;Concept&gt; ;
+	skos:definition	"produce or yield flowers"@en ;
+	dc:source	pwn30:00294245-v .
+</code></pre>
+
+<p><code class="language-plaintext highlighter-rouge">pwn30:00294245-v</code> corresponds to <a href="http://wordnet-rdf.princeton.edu/pwn30/00294245-v">this</a> and <code class="language-plaintext highlighter-rouge">pwn30:00293977-v</code> corresponds to <a href="http://wordnet-rdf.princeton.edu/pwn30/00293977-v">this</a>.</p>
+
+<p>The title of the blog refers to an international auxiliary language<sup>6</sup> (IAL), probably the most widely used.
+IALs are constructed to be used to facilitate communication between persons of any nationality that have no common native tongues.</p>
+
+<h2 id="references">References</h2>
+
+<ol>
+  <li><a href="https://archive.illc.uva.nl//EuroWordNet/">The EuroWordNet project</a></li>
+  <li><a href="https://vossen.info/">Piek Vossen</a></li>
+  <li><a href="http://globalwordnet.org/">Global WordNet Association</a></li>
+  <li><a href="https://github.com/globalwordnet/cili">Collaborative InterLingual Index</a></li>
+  <li><a href="https://wordnet.princeton.edu/">Princeton WordNet</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/International_auxiliary_language">International auxiliary language</a></li>
+</ol>]]></content><author><name></name></author><category term="ssw" /><category term="58h" /><category term="ontology" /><summary type="html"><![CDATA[Originally posted here as part of the CMPE58H course: https://furkanakkurt5204.gitlab.io/personal/ontology/2022/12/21/interlingua.]]></summary></entry><entry><title type="html">Onto-</title><link href="https://furkanakkurt1335.github.io/blog/2022/onto/" rel="alternate" type="text/html" title="Onto-" /><published>2022-12-15T10:09:20+00:00</published><updated>2022-12-15T10:09:20+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2022/onto-</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2022/onto/"><![CDATA[<p>Originally posted here as part of the <a href="https://cmpe.boun.edu.tr/courses/cmpe58h">CMPE58H</a> course: <code class="language-plaintext highlighter-rouge">https://furkanakkurt5204.gitlab.io/personal/ontology/2022/12/15/onto</code>.</p>
+
+<hr />
+
+<p>Ontology is the study of the essence of things.
+Onto- is etymologically related to <em>essence</em> (<em>essere</em>: to be in Italian).
+<em>Onto</em> and <em>logy</em> together is the discourse of existence.
+Ontology in the field of computer science is, as expected, very much related to its philosophical usage.</p>
+
+<h2 id="tower-of-babel">Tower of Babel</h2>
+
+<p><img src="/ssw/images/tower-babel.jpg" alt="Tower of Babel (1563)" /></p>
+<p style="text-align:center"> The Tower of Babel by Pieter Bruegel the Elder (1563) <sup>1</sup> </p>
+
+<p><a href="https://en.wikipedia.org/wiki/Tower_of_Babel">The <em>tower of babel</em> narrative</a> tries to explain why humans have languages so diverse.
+In the narrative, a human race with a single language gets scattered around the world and their language confused.
+Ontologies are attempts at reducing this diversification and unifying representations so that people unify over the understanding of a thing as much as possible.
+Although many philosophers are fond of <em>ontology</em>, it’s sad that much of the disagreements between them appear to come from understanding different things from the same phrases.
+People are very capable of misunderstandings.</p>
+
+<p>In the computer science world, various groups establish their own terminology in their work.
+When outputs of these groups want to be merged, consequently, much work has to be done.<sup>2</sup></p>
+
+<h2 id="references">References</h2>
+
+<ul>
+  <li>1: <a href="https://upload.wikimedia.org/wikipedia/commons/5/50/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project.jpg">Pieter Brueghel the Elder, Public domain, via Wikimedia Commons</a></li>
+  <li>2: <a href="http://ontology.buffalo.edu/smith/articles/ontologies.htm">Ontology: Philosophical and Computational</a></li>
+</ul>]]></content><author><name></name></author><category term="ssw" /><category term="58h" /><category term="ontology" /><summary type="html"><![CDATA[Originally posted here as part of the CMPE58H course: https://furkanakkurt5204.gitlab.io/personal/ontology/2022/12/15/onto.]]></summary></entry><entry><title type="html">Raventology</title><link href="https://furkanakkurt1335.github.io/blog/2022/raventology/" rel="alternate" type="text/html" title="Raventology" /><published>2022-12-08T09:56:32+00:00</published><updated>2022-12-08T09:56:32+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2022/raventology</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2022/raventology/"><![CDATA[<p>Originally posted here as part of the <a href="https://cmpe.boun.edu.tr/courses/cmpe58h">CMPE58H</a> course: <code class="language-plaintext highlighter-rouge">https://furkanakkurt5204.gitlab.io/personal/ontology/2022/12/08/raventology</code>.</p>
+
+<hr />
+
+<p>Once upon a midnight dreary, while I pondered, weak and weary,<br />
+Over many a quaint and curious volume o<code class="language-plaintext highlighter-rouge">f</code> forgotten lore—<br />
+While I nodded, nearly napping, s<code class="language-plaintext highlighter-rouge">u</code>ddenly the<code class="language-plaintext highlighter-rouge">r</code>e came a tapping,<br />
+As of some one gently rapping, rapping at my chamber door.<br />
+“’Tis some visitor,” I muttered, “tapping at my chamber door—<br />
+Only this and nothing more.”</p>
+
+<p>Ah, distinctly I remember it was in the blea<code class="language-plaintext highlighter-rouge">k</code> December;<br />
+<code class="language-plaintext highlighter-rouge">An</code>d each sepa<code class="language-plaintext highlighter-rouge">r</code>ate <code class="language-plaintext highlighter-rouge">d</code>ying ember wrought its ghost upon the <code class="language-plaintext highlighter-rouge">f</code>loor.<br />
+Eagerly I wished <code class="language-plaintext highlighter-rouge">t</code>he morrow;—vainl<code class="language-plaintext highlighter-rouge">y</code> I had sought to borrow<br />
+From my books surcease of sorrow—sorrow for the lost Lenore—<br />
+For the rare and radiant maiden whom the angels name Lenore—<br />
+Nameless here for evermore.</p>
+
+<p>And the silken, sad, uncertain rustling of each <code class="language-plaintext highlighter-rouge">p</code>urpl<code class="language-plaintext highlighter-rouge">e</code> curtain<br />
+Thrilled me—<code class="language-plaintext highlighter-rouge">f</code>illed me with fantastic terr<code class="language-plaintext highlighter-rouge">o</code>rs never felt before;<br />
+So th<code class="language-plaintext highlighter-rouge">a</code>t now, to still the beating o<code class="language-plaintext highlighter-rouge">f</code> my heart, I stood re<code class="language-plaintext highlighter-rouge">pe</code>ating<br />
+“’Tis some visito<code class="language-plaintext highlighter-rouge">r</code> entreating entrance at my chamber door—<br />
+<code class="language-plaintext highlighter-rouge">So</code>me late visitor e<code class="language-plaintext highlighter-rouge">n</code>treating entrance at my chamber door;—<br />
+This it is and nothing more.”</p>
+
+<p>Presently my soul grew stronger; hesitating then no longer,<br />
+“Sir,” said I, “or Madam, truly your <code class="language-plaintext highlighter-rouge">f</code>orgiveness I implore;<br />
+B<code class="language-plaintext highlighter-rouge">u</code>t the fact is I was napping, and so gently you came <code class="language-plaintext highlighter-rouge">r</code>apping,<br />
+And so faintly you came tapping, tapping at my chamber door,<br />
+That I scarce was sure I heard you”—here I opened wide the door;—<br />
+Dar<code class="language-plaintext highlighter-rouge">k</code>ness there <code class="language-plaintext highlighter-rouge">an</code>d nothing more.</p>
+
+<p>Deep into that darkness peering, long I stood there wondering, <code class="language-plaintext highlighter-rouge">f</code>earing,<br />
+D<code class="language-plaintext highlighter-rouge">o</code>ubting, dre<code class="language-plaintext highlighter-rouge">a</code>ming dreams no mortal ever dared to dream be<code class="language-plaintext highlighter-rouge">f</code>ore;<br />
+But the silence was unbro<code class="language-plaintext highlighter-rouge">k</code>e<code class="language-plaintext highlighter-rouge">n</code>, and the stillness gave n<code class="language-plaintext highlighter-rouge">o</code> token,<br />
+And the only <code class="language-plaintext highlighter-rouge">w</code>ord there <code class="language-plaintext highlighter-rouge">s</code>poken wa<code class="language-plaintext highlighter-rouge">s</code> the whispered word, “Lenore?”<br />
+This I whispered, and an echo m<code class="language-plaintext highlighter-rouge">u</code>rmured back the word, “Lenore!”—<br />
+Merely thi<code class="language-plaintext highlighter-rouge">s</code> <code class="language-plaintext highlighter-rouge">an</code>d nothing more.</p>
+
+<p>Back into the chamber turning, all my soul within me burning,<br />
+Soon again I heard a tapping somewhat louder than before.<br />
+“Surely,” said I, “surely that is something at my window lattice;<br />
+Let me see, then, what thereat is, and this mystery explore—<br />
+Let my heart be still a moment and this mystery explore;—<br />
+’Tis the wind and nothing more!”</p>
+
+<p>Open here I flung the shutter, when, with many a flirt and flutter,<br />
+In there stepped a stately Raven of the saintly days of yore;<br />
+Not the least obeisance made he; not a minute stopped or stayed he;<br />
+But, with mien of lord or lady, perched above my chamber door—<br />
+Perched upon a bust of Pallas just above my chamber door—<br />
+Perched, and sat, and nothing more.</p>
+
+<p>Then this ebony bird beguiling my sad fancy into smiling,<br />
+By the grave and stern decorum of the countenance it wore,<br />
+“Though thy crest be shorn and shaven, thou,” I said, “art sure no craven,<br />
+Ghastly grim and ancient Raven wandering from the Nightly shore—<br />
+Tell me what thy lordly name is on the Night’s Plutonian shore!”<br />
+Quoth the Raven “Nevermore.”</p>
+
+<p>Much I marvelled this ungainly fowl to hear discourse so plainly,<br />
+Though its answer little meaning—little relevancy bore;<br />
+For we cannot help agreeing that no living human being<br />
+Ever yet was blessed with seeing bird above his chamber door—<br />
+Bird or beast upon the sculptured bust above his chamber door,<br />
+With such name as “Nevermore.”</p>
+
+<p>But the Raven, sitting lonely on the placid bust, spoke only<br />
+That one word, as if his soul in that one word he did outpour.<br />
+Nothing farther then he uttered—not a feather then he fluttered—<br />
+Till I scarcely more than muttered “Other friends have flown before—<br />
+On the morrow he will leave me, as my Hopes have flown before.”<br />
+Then the bird said “Nevermore.”</p>
+
+<p>Startled at the stillness broken by reply so aptly spoken,<br />
+“Doubtless,” said I, “what it utters is its only stock and store<br />
+Caught from some unhappy master whom unmerciful Disaster<br />
+Followed fast and followed faster till his songs one burden bore—<br />
+Till the dirges of his Hope that melancholy burden bore<br />
+Of ‘Never—nevermore’.”</p>
+
+<p>But the Raven still beguiling all my fancy into smiling,<br />
+Straight I wheeled a cushioned seat in front of bird, and bust and door;<br />
+Then, upon the velvet sinking, I betook myself to linking<br />
+Fancy unto fancy, thinking what this ominous bird of yore—<br />
+What this grim, ungainly, ghastly, gaunt, and ominous bird of yore<br />
+Meant in croaking “Nevermore.”</p>
+
+<p>This I sat engaged in guessing, but no syllable expressing<br />
+To the fowl whose fiery eyes now burned into my bosom’s core;<br />
+This and more I sat divining, with my head at ease reclining<br />
+On the cushion’s velvet lining that the lamp-light gloated o’er,<br />
+But whose velvet-violet lining with the lamp-light gloating o’er,<br />
+She shall press, ah, nevermore!</p>
+
+<p>Then, methought, the air grew denser, perfumed from an unseen censer<br />
+Swung by Seraphim whose foot-falls tinkled on the tufted floor.<br />
+“Wretch,” I cried, “thy God hath lent thee—by these angels he hath sent thee<br />
+Respite—respite and nepenthe from thy memories of Lenore;<br />
+Quaff, oh quaff this kind nepenthe and forget this lost Lenore!”<br />
+Quoth the Raven “Nevermore.”</p>
+
+<p>“Prophet!” said I, “thing of evil!—prophet still, if bird or devil!—<br />
+Whether Tempter sent, or whether tempest tossed thee here ashore,<br />
+Desolate yet all undaunted, on this desert land enchanted—<br />
+On this home by Horror haunted—tell me truly, I implore—<br />
+Is there—is there balm in Gilead?—tell me—tell me, I implore!”<br />
+Quoth the Raven “Nevermore.”</p>
+
+<p>“Prophet!” said I, “thing of evil!—prophet still, if bird or devil!<br />
+By that Heaven that bends above us—by that God we both adore—<br />
+Tell this soul with sorrow laden if, within the distant Aidenn,<br />
+It shall clasp a sainted maiden whom the angels name Lenore—<br />
+Clasp a rare and radiant maiden whom the angels name Lenore.”<br />
+Quoth the Raven “Nevermore.”</p>
+
+<p>“Be that word our sign of parting, bird or fiend!” I shrieked, upstarting—<br />
+“Get thee back into the tempest and the Night’s Plutonian shore!<br />
+Leave no black plume as a token of that lie thy soul hath spoken!<br />
+Leave my loneliness unbroken!—quit the bust above my door!<br />
+Take thy beak from out my heart, and take thy form from off my door!”<br />
+Quoth the Raven “Nevermore.”</p>
+
+<p>And the Raven, never flitting, still is sitting, still is sitting<br />
+On the pallid bust of Pallas just above my chamber door;<br />
+And his eyes have all the seeming of a demon’s that is dreaming,<br />
+And the lamp-light o’er him streaming throws his shadow on the floor;<br />
+And my soul from out that shadow that lies floating on the floor<br />
+Shall be lifted—nevermore!</p>]]></content><author><name></name></author><category term="ssw" /><category term="58h" /><category term="ontology" /><summary type="html"><![CDATA[Originally posted here as part of the CMPE58H course: https://furkanakkurt5204.gitlab.io/personal/ontology/2022/12/08/raventology.]]></summary></entry><entry><title type="html">Reigning spiders</title><link href="https://furkanakkurt1335.github.io/blog/2022/reigning-spiders/" rel="alternate" type="text/html" title="Reigning spiders" /><published>2022-12-01T10:00:00+00:00</published><updated>2022-12-01T10:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2022/reigning-spiders</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2022/reigning-spiders/"><![CDATA[<p>Originally posted here as part of the <a href="https://cmpe.boun.edu.tr/courses/cmpe58h">CMPE58H</a> course: <code class="language-plaintext highlighter-rouge">https://furkanakkurt5204.gitlab.io/personal/ontology/2022/12/01/reigning-spiders</code>.</p>
+
+<hr />
+
+<p>I wondered about reasoners. W3C has the <a href="https://www.w3.org/Submission/SWRL/">Semantic Web Rule Language</a> (SWRL). Its syntax is similar to a notation I learned during CMPE260: <a href="https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form">Extended Backus–Naur form</a> (EBNF). They define rules as axioms: <code class="language-plaintext highlighter-rouge">axiom ::= rule</code>.</p>
+
+<p>The axioms have <em>antecedents</em> (body) and <em>consequents</em> (head), each composed of <em>atoms</em>. The rule may be defined as: <code class="language-plaintext highlighter-rouge">if antecedent, then consequent</code>. Basic atoms are of the forms:</p>
+
+<ol>
+  <li><code class="language-plaintext highlighter-rouge">C(x)</code>: descriptions
+    <ul>
+      <li>Example: <code class="language-plaintext highlighter-rouge">ontolex:LexicalConcept(:hebûn_v_ku_sense_concept)</code></li>
+    </ul>
+  </li>
+  <li><code class="language-plaintext highlighter-rouge">P(x, y)</code>: relations
+    <ul>
+      <li>Example: <code class="language-plaintext highlighter-rouge">skos:definition(:hebûn_v_en_sense_concept, "assets"@en)</code></li>
+    </ul>
+  </li>
+  <li><code class="language-plaintext highlighter-rouge">sameAs(x, y)</code>: equalization
+    <ul>
+      <li>Example: <code class="language-plaintext highlighter-rouge">sameAs(foaf:Person, wd:Q5)</code></li>
+    </ul>
+  </li>
+</ol>
+
+<p>Compositing atoms, one can construct very complex rules. One such rule would be, informally: parent(?x, ?y) ∧ parent(?y, ?z) ⇒ grandparent(?x, ?z).</p>
+
+<p>Sidenote: In the specification, they mention that <code class="language-plaintext highlighter-rouge">sameAs</code> and <code class="language-plaintext highlighter-rouge">differentFrom</code> atoms do not increase the expressivity of the language since OWL and rules together without these atoms are capable of the same expressions.</p>]]></content><author><name></name></author><category term="ssw" /><category term="58h" /><category term="ontology" /><summary type="html"><![CDATA[Originally posted here as part of the CMPE58H course: https://furkanakkurt5204.gitlab.io/personal/ontology/2022/12/01/reigning-spiders.]]></summary></entry><entry><title type="html">Predication</title><link href="https://furkanakkurt1335.github.io/blog/2022/predication/" rel="alternate" type="text/html" title="Predication" /><published>2022-11-24T10:20:43+00:00</published><updated>2022-11-24T10:20:43+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2022/predication</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2022/predication/"><![CDATA[<p>Originally posted here as part of the <a href="https://cmpe.boun.edu.tr/courses/cmpe58h">CMPE58H</a> course: <code class="language-plaintext highlighter-rouge">https://furkanakkurt5204.gitlab.io/personal/ontology/2022/11/24/predication</code>.</p>
+
+<hr />
+
+<p>As we know, a semantic triple is made up of a <em>subject</em>, a <em>predicate</em> and an <em>object</em>. From my language learning studies, I know that some grammars divide sentences into two: <em>subject</em> and <em>predicate</em>. This is why I wanted to search for the division of the predicate into two: <em>relation</em> (i.e. <em>predicate</em>) and <em>object</em>.</p>
+
+<p>Firstly, it seems that the predicate and subject division occurred with the ancient philosophers, which doesn’t mean it had not been thought of earlier. Since writing is a “recent” phenomenon, written history is too small. Back to philosophers, Aristotle thought that the division between <em>subject</em> and <em>predicate</em> is essential. As I understand, Plato articulated that the <em>relation</em> (<em>predicate</em>) gives the <em>subject</em> its <strong>name</strong>: <span style="font-family: georgia"> beauty → beautiful </span> .</p>
+
+<p>In an ontology, the <em>relation</em> (<em>predicate</em>) needs to be separated from the <em>object</em> for it to be generalizable. In linguistics, it’s no worry to call the entire verbal phrase <span style="font-family: georgia"> “eat an apple” </span> a predicate; but, in an ontology, this wouldn’t help us at all.</p>
+
+<!-- Philosophers -->
+
+<!-- it seems early committing didn't publish it, needed another change after the date -->
+
+<p>I learned, on the way, that the concept <em>Semantic triple</em>’s entry on Wikipedia <a href="https://fr.wikipedia.org/wiki/Triplet_RDF">in French</a> is a whole lot longer than the one <a href="https://en.wikipedia.org/wiki/Semantic_triple">in English</a>. 😮 <em>:learning French on Duolingo:</em></p>
+
+<h2 id="references">References</h2>
+
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/Predication_(philosophy)">Predication (philosophy) - Wikipedia</a></li>
+  <li><a href="https://fr.wikipedia.org/wiki/Triplet_RDF">Triplet RDF - Wikipédia</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Semantic_triple">Semantic triple - Wikipedia</a></li>
+</ul>]]></content><author><name></name></author><category term="ssw" /><category term="58h" /><category term="ontology" /><summary type="html"><![CDATA[Originally posted here as part of the CMPE58H course: https://furkanakkurt5204.gitlab.io/personal/ontology/2022/11/24/predication.]]></summary></entry><entry><title type="html">Ontologying</title><link href="https://furkanakkurt1335.github.io/blog/2022/ontologying/" rel="alternate" type="text/html" title="Ontologying" /><published>2022-11-15T14:21:00+00:00</published><updated>2022-11-15T14:21:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2022/ontologying</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2022/ontologying/"><![CDATA[<p>Originally posted here as part of the <a href="https://cmpe.boun.edu.tr/courses/cmpe58h">CMPE58H</a> course: <code class="language-plaintext highlighter-rouge">https://furkanakkurt5204.gitlab.io/personal/ontology/2022/11/15/ontologying</code>.</p>
+
+<hr />
+
+<p>We talked about what ontologists do last week in class.
+I searched for some <em>Ontologist</em> jobs.
+I was pleased to see that the companies look for <em>linguists</em> as well as other technical professions.</p>
+
+<p>While at it, I saw <a href="https://www.linkedin.com/pulse/why-most-companies-need-ontologist-two-kurt-cagle/">one <em>ontologist</em> argue</a> that ontologists are language engineers: not in the sense of engineering or creating new languages (<a href="https://en.wikipedia.org/wiki/Constructed_language"><em>conlanging</em></a>), but standardizing the language used by a group of people working towards a goal.
+I’m quoting, from his 2016 LinkedIn article:</p>
+
+<blockquote>
+  <p><span style="font-family: tahoma; font-style: normal">I would estimate that 50% of all code that has been written in the last twenty years [is for] translating between representations.</span></p>
+</blockquote>
+
+<p>Very sad. 😢</p>
+
+<p>Ontology creation resembles object-oriented design.
+As such, creating an ontology is also similar to creating a dictionary.
+When we create a class in a program or an ontology, it’s similar to creating a dictionary.
+We <em>define</em> what a class is by its variables (literal or object) and methods.</p>
+
+<p>People are different; if we asked a few people to define an <span style="color: red">apple</span> by a class, we’d get an <em>exact</em> few amount of different classes.
+Ontologists create clear classes, distinguishing between entities and their properties.
+Utilizing this experience, they establish standards that programmers use.
+When an ontology is organized well, transferring work mentioned above becomes less of a burden and takes less time.</p>
+
+<h2 id="reference">Reference</h2>
+
+<ul>
+  <li><a href="https://www.linkedin.com/pulse/why-most-companies-need-ontologist-two-kurt-cagle/">Why Most Companies Need An Ontologist (or Two) by Kurt Cagle on March 4, 2016 - LinkedIn article</a></li>
+</ul>]]></content><author><name></name></author><category term="ssw" /><category term="58h" /><category term="ontology" /><summary type="html"><![CDATA[Originally posted here as part of the CMPE58H course: https://furkanakkurt5204.gitlab.io/personal/ontology/2022/11/15/ontologying.]]></summary></entry><entry><title type="html">Qualifiers among Triples</title><link href="https://furkanakkurt1335.github.io/blog/2022/qualifiers-among-triples/" rel="alternate" type="text/html" title="Qualifiers among Triples" /><published>2022-11-10T10:15:00+00:00</published><updated>2022-11-10T10:15:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2022/qualifiers-among-triples</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2022/qualifiers-among-triples/"><![CDATA[<p>Originally posted here as part of the <a href="https://cmpe.boun.edu.tr/courses/cmpe58h">CMPE58H</a> course: <code class="language-plaintext highlighter-rouge">https://furkanakkurt5204.gitlab.io/personal/ontology/2022/11/10/qualifiers-among-triples</code>.</p>
+
+<hr />
+
+<p>Last week, we went over some ontologies brought up by our classmates. Browsing Toykan’s ontology, <a href="https://www.ebi.ac.uk/ols/index">Ontology Lookup Service</a> (OLS), the keyword <em>some</em> had caught my eye as independent of the usual triples (subject, predicate and object). Reading this week’s paper, <em>Wikidata: A large-scale collaborative ontological medical database</em>, I realized those are <em>qualifiers</em> that we also see in Wikidata.</p>
+
+<p>The paper mentions that Wikidata items have claims “in the form of triples”. The subject refers to the item the claim is referring to. The predicate is used in place of the ontology concept <em>property</em>. Lastly, the object represents a value. Claims are then made more precise through <em>qualifiers</em>.</p>
+
+<h1 id="example-qualifier-from-ols">Example Qualifier from OLS</h1>
+
+<p>The item <a href="http://purl.obolibrary.org/obo/CHEBI_46195"><em>Acetaminophen</em></a> has a relation: <em>has role</em> <span style="color:purple">some</span> xenobiotic. <em>has role</em> is the property; the purple part is a qualifier; <em>xenobiotic</em> is the value (object).</p>]]></content><author><name></name></author><category term="ssw" /><category term="58h" /><category term="ontology" /><summary type="html"><![CDATA[Originally posted here as part of the CMPE58H course: https://furkanakkurt5204.gitlab.io/personal/ontology/2022/11/10/qualifiers-among-triples.]]></summary></entry><entry><title type="html">Signing Lemon</title><link href="https://furkanakkurt1335.github.io/blog/2022/signing-lemon/" rel="alternate" type="text/html" title="Signing Lemon" /><published>2022-11-02T17:42:50+00:00</published><updated>2022-11-02T17:42:50+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2022/signing-lemon</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2022/signing-lemon/"><![CDATA[<p>Originally posted here as part of the <a href="https://cmpe.boun.edu.tr/courses/cmpe58h">CMPE58H</a> course: <code class="language-plaintext highlighter-rouge">https://furkanakkurt5204.gitlab.io/personal/linguistics/2022/11/02/signing-lemon</code>.</p>
+
+<hr />
+
+<p>Last week, we talked about a possible ontology for sign languages (SL) during the 58H project proposals. I searched if there were any attempts at it. There is a paper in 2022 working on just that, <a href="https://aclanthology.org/2022.lrec-1.423">Towards a new Ontology for Sign Languages</a> (Declerck, LREC 2022). In the paper, the authors talk about their ongoing work on including multimodal lexical data in <a href="https://www.w3.org/2019/09/lexicog/">the OntoLex-Lemon framework</a> with the result of <a href="https://github.com/Declerck/sl-onto">the first edition of their ontology</a>. An excerpt from the ontology is at the end.</p>
+
+<p>Integrating multimodality of natural languages, like sign languages, into the framework of OntoLex-Lemon is quite on point. Although modalities may differ between spoken and signed languages, they share quite a lot and can be represented with a single model.</p>
+
+<p>Still, <em>sign language</em> represented quite a challenge for them, as it’s quite concentrated on the movements of a person, since the framework was created specifically for written or phonetic representations of lexical data. Starting the work, they realized that a comprehensive study of “LD (Linked Data) compliant description of the constitutive elements of sign languages” is necessary. They also mention that discussions regarding “the representation of multimodal language data”, first focus being on SLs, started in <a href="https://www.w3.org/community/ontolex/">the “Ontology Lexica” W3C Community</a>, a good sign.</p>
+
+<h2 id="excerpt-from-the-ontology">Excerpt from the ontology</h2>
+
+<pre><code class="language-rdf">sldc:BackAndForth
+  rdf:type sldc:PathMovement ;
+  dc:source "https://asl-lex.org/" ;
+  rdfs:label "\"back and forth\""@en ;
+.
+sldc:BackOfHand
+  rdf:type sldc:Location_DGS_Vertical ;
+  dc:source "DGS" ;
+  rdfs:label "\"back of the hand\""@en ;
+.
+</code></pre>]]></content><author><name></name></author><category term="ssw" /><category term="58h" /><category term="linguistics" /><summary type="html"><![CDATA[Originally posted here as part of the CMPE58H course: https://furkanakkurt5204.gitlab.io/personal/linguistics/2022/11/02/signing-lemon.]]></summary></entry><entry><title type="html">A Case For Pronunciation Over Spelling, Or Multitude Of Alphabets</title><link href="https://furkanakkurt1335.github.io/blog/2021/pronunciation/" rel="alternate" type="text/html" title="A Case For Pronunciation Over Spelling, Or Multitude Of Alphabets" /><published>2021-11-19T00:00:00+00:00</published><updated>2021-11-19T00:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2021/pronunciation</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2021/pronunciation/"><![CDATA[<p>Istanbul</p>
 
 <p>What if natives of languages using non-Latin writing systems (Arabic, Japanese, Korean) pronounce English (lingua franca of the day) better than ones using Latin alphabets (French, Italian, Spanish, and Turkish)? Better in the sense of only the correct vowels and consonants, with the correct ‘intention’ in a way; not in the sense of saying /k/ better, that depends on the native language’s phonology.</p>
 
@@ -17,4 +324,4 @@
 
 <p>Admittedly, the world has become much more writing-oriented, and searching phrases on documents, people would have to differentiate between different languages using Latin alphabets but this is not much of a problem because most people don’t know more than 2 languages (knowing a language meaning with a very high proficiency level) and no one searches for documents outside their language capabilities. Also, the concept ‘language’ is oral, writing is a tool. Speech is a tool, it can be argued, but no one is born with a pen.</p>
 
-<p><em>KFC</em>: In Istanbul, I heard a woman saying /keːfeːd͡ʒeː/ (KFC) the other day (which also prompted the idea presented here). <a href="https://forvo.com/word/kfc/">Forvo entry</a> of KFC provides other examples: Spanish and Dutch pronunciations with their own phonologies −quite different than the original−, while a Thai person pronouncing it in the original.</p>]]></content><author><name></name></author><category term="linguistics" /><category term="linguistics" /><summary type="html"><![CDATA[Istanbul]]></summary></entry></feed>
+<p><em>KFC</em>: In Istanbul, I heard a woman saying /keːfeːd͡ʒeː/ (KFC) the other day (which also prompted the idea presented here). <a href="https://forvo.com/word/kfc/">Forvo entry</a> of KFC provides other examples: Spanish and Dutch pronunciations with their own phonologies −quite different than the original−, while a Thai person pronouncing it in the original.</p>]]></content><author><name></name></author><category term="linguistics" /><summary type="html"><![CDATA[Istanbul]]></summary></entry></feed>
