@@ -73,7 +73,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: furkanakkurt1335 # your GitHub user name
 gitlab_username: furkanakkurt5204 # your GitLab user name
 twitter_username: furkanakkurt358 # your Twitter handle
-mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+mastodon_username: https://home.social/@furkanakkurt1507 # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: furkanakkurt9447 # your LinkedIn user name
 telegram_username: furkanakkurt8279 # your Telegram user name
 scholar_userid: i9gWWMUAAAAJ # your Google Scholar ID
@@ -81,30 +81,30 @@ semanticscholar_id: 2174736343 # your Semantic Scholar ID
 whatsapp_number: +905325555555 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0002-8411-654X # your ORCID ID
 medium_username: furkanakkurt7642 # your Medium username
-quora_username: # your Quora username
+quora_username: Furkan-Akkurt-1 # your Quora username
 publons_id: # your ID on Publons
-osf_id: # your OSF ID
-research_gate_profile: # your profile on ResearchGate
-scopus_id: # your profile on Scopus
+osf_id: k43q6 # your OSF ID
+research_gate_profile: Furkan-Akkurt-3 # your profile on ResearchGate
+scopus_id: 57809009300 # your profile on Scopus
 blogger_url: # your blogger URL
 work_url: # work page URL
-keybase_username: # your keybase user name
+keybase_username: furkanakkurt8492 # your keybase user name
 wikidata_id: Furkanakkurt8015 # your wikidata id
 wikipedia_id: Furkanakkurt8015 # your wikipedia id (Case sensitive)
-dblp_url: # your DBLP profile url
-stackoverflow_id: # your stackoverflow id
-kaggle_id: # your kaggle id
-lastfm_id: # your lastfm id
-spotify_id: # your spotify id
-pinterest_id: # your pinterest id
-unsplash_id: # your unsplash id
+dblp_url: https://dblp.org/pid/323/7980.html # your DBLP profile url
+stackoverflow_id: 14289095 # your stackoverflow id
+kaggle_id: furkanakkurt8350 # your kaggle id
+lastfm_id: furkanakkurt865 # your lastfm id
+spotify_id: cxf9f9pzmeot1j8e5hs4wg373 # your spotify id
+pinterest_id: furkanakkurt7067 # your pinterest id
+unsplash_id: furkanakkurt7969 # your unsplash id
 instagram_id: furkanakkurt5466 # your instagram id
 facebook_id: furkanakkurt5466 # your facebook id
 youtube_id: furkanakkurt8601 # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: furkanakkurt1821#8351 # your discord id (18-digit unique numerical identifier)
 
-# contact_note: >
-#   You can even add a little note about which of these is the best way to reach you.
+contact_note: >
+  Email is preferred.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
