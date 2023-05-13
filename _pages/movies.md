@@ -10,13 +10,13 @@ permalink: /movies/
 
 Pachinko
 
-<img src="images/girl.jpg" width="100%">
+![girl](images/girl.jpg)
 
 ## 2021
 
 ### 9/9
 
-Blood Brothers, Malcolm X and Muhammad Ali, Netflix Documentary (2021); What kind of language is that, `boy`?
+Blood Brothers, Malcolm X and Muhammad Ali, Netflix Documentary (2021); What kind of language is that, _boy_?
 
 <img src="images/ali lawyer.png" width="100%">
 
@@ -45,13 +45,13 @@ Just finished Chess from Explained by Vox. I learned that the players' blood pre
 
 Just watching this documentary on Amazon Prime called "One Child Nation" (2019). A rural villager lady talking about the policy back then, and smiling too:
 
-<img src="images/villager, sterilization.png" width="100%">
+![villager](images/villager, sterilization.png)
 
 I can't even post what the old village officer said he saw, in a following scene. "It was really fucked up."  
 I don't know if I can continue this doc, 44 min in.  
 Okay, just finished it. No words. I'll leave a picture here:
 
-<img src="images/writing, wall.jpg" width="100%">
+![wall](images/writing, wall.jpg)
 
 So much like _Animal Farm_'s barn writings on the wall, seems animals can write in real life too. (must be pigs)  
 

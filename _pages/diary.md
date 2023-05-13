@@ -4,10 +4,7 @@ title: Diary
 permalink: /diary/
 ---
 
-[2021](#2021)  
-[2022](#2022)
-
-## <span id="2022">2022</span>
+## 2022
 
 ### May
 
@@ -27,7 +24,7 @@ One UI 3.1 Upgrade (Android 11) 🥳
 
 15 minutes to the next day.
 
-## <span id="2021">2021</span>
+## 2021
 
 ### December
 
@@ -47,8 +44,9 @@ Adele
 
 #### 18
 
-Good morning 🌄  
-<img src="images/me-cam-roll.jpg" style="max-height: 200px">
+Good morning 🌄
+
+![me-cam-roll](images/me-cam-roll.jpg)
 
 #### 17
 
@@ -71,7 +69,7 @@ Watching it currently, 14:16
 #### 8
 
 Woke up 10, 11:14  
-`Watching` the 2nd episode of the MU2Q podcast, 14:08
+_Watching_ the 2nd episode of the MU2Q podcast, 14:08
 
 #### 7
 
@@ -104,7 +102,9 @@ I just ate two pieces of laḥm ʿajīn (aka Turkish Pizza) and they were delici
 
 Starting. Logged off WiFi today. How ironic I'm writing this while on. 7:13  
 You know I was at that park yesterday, biking. This is a photo: (7:19)  
-<img src="images/biking.jpg" style="max-height: 500px">  
+
+![biking](images/biking.jpg)
+
 Played 'Phasmophobia' yesterday night with Emre and Emin abi. I don't like them scary games at all. 7:29  
-12p woke up, must study for the math final tomorrow. 12:36 [study for `the math final tomorrow`, not `study`
-for the math final `tomorrow`, 6.9.21 8:40]
+12p woke up, must study for the math final tomorrow. 12:36 [study for _the math final tomorrow_, not _study_
+for the math final _tomorrow_, 6.9.21 8:40]
