@@ -6,7 +6,7 @@ categories: 58h ssw linguistics
 giscus_comments: true
 ---
 
-Originally posted here as part of the [CMPE58H](https://cmpe.boun.edu.tr/courses/cmpe58h) course: `https://furkanakkurt5204.gitlab.io/personal/linguistics/2022/11/02/signing-lemon`.
+Originally posted as part of the [CMPE58H](https://cmpe.boun.edu.tr/courses/cmpe58h) course at `https://furkanakkurt5204.gitlab.io/personal/linguistics/2022/11/02/signing-lemon`.
 
 ---
 

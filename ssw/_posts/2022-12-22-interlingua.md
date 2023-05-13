@@ -6,7 +6,7 @@ categories: 58h ssw ontology
 giscus_comments: true
 ---
 
-Originally posted here as part of the [CMPE58H](https://cmpe.boun.edu.tr/courses/cmpe58h) course: `https://furkanakkurt5204.gitlab.io/personal/ontology/2022/12/21/interlingua`.
+Originally posted as part of the [CMPE58H](https://cmpe.boun.edu.tr/courses/cmpe58h) course at `https://furkanakkurt5204.gitlab.io/personal/ontology/2022/12/21/interlingua`.
 
 ---
 
