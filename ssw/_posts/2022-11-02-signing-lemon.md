@@ -2,7 +2,8 @@
 layout: post
 title:  "Signing Lemon"
 date:   2022-11-02 20:42:50 +0300
-categories: 58h ssw linguistics
+categories: ssw
+tags: linguistics
 giscus_comments: true
 ---
 

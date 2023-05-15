@@ -2,7 +2,8 @@
 layout: post
 title: "Raventology"
 date: 2022-12-08 12:56:32 +0300
-categories: 58h ssw ontology
+categories: ssw
+tags: ontology
 giscus_comments: true
 ---
 

@@ -2,7 +2,8 @@
 layout: post
 title: "Predication"
 date: 2022-11-24 13:20:43 +0300
-categories: 58h ssw ontology
+categories: ssw
+tags: ontology
 giscus_comments: true
 ---
 

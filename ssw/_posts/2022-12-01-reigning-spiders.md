@@ -2,7 +2,8 @@
 layout: post
 title: "Reigning spiders"
 date: 2022-12-01 13:00:00 +0300
-categories: 58h ssw ontology
+categories: ssw
+tags: ontology
 giscus_comments: true
 ---
 

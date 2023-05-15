@@ -2,7 +2,8 @@
 layout: post
 title:  "Qualifiers among Triples"
 date:   2022-11-10 13:15:00 +0300
-categories: 58h ssw ontology
+categories: ssw
+tags: ontology
 giscus_comments: true
 ---
 
