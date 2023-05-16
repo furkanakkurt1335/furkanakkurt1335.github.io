@@ -39,9 +39,9 @@ IALs are constructed to be used to facilitate communication between persons of a
 
 ## References
 
-1. [The EuroWordNet project](https://archive.illc.uva.nl//EuroWordNet/)
-2. [Piek Vossen](https://vossen.info/)
-3. [Global WordNet Association](http://globalwordnet.org/)
+1. [The EuroWordNet project](https://archive.illc.uva.nl//EuroWordNet)
+2. [Piek Vossen](https://vossen.info)
+3. [Global WordNet Association](http://globalwordnet.org)
 4. [Collaborative InterLingual Index](https://github.com/globalwordnet/cili)
-5. [Princeton WordNet](https://wordnet.princeton.edu/)
+5. [Princeton WordNet](https://wordnet.princeton.edu)
 6. [International auxiliary language](https://en.wikipedia.org/wiki/International_auxiliary_language)

@@ -11,7 +11,7 @@ Originally posted as part of the [CMPE58H](https://cmpe.boun.edu.tr/courses/cmpe
 
 ---
 
-I wondered about reasoners. W3C has the [Semantic Web Rule Language](https://www.w3.org/Submission/SWRL/) (SWRL). Its syntax is similar to a notation I learned during CMPE260: [Extended Backus–Naur form](https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form) (EBNF). They define rules as axioms: `axiom ::= rule`.
+I wondered about reasoners. W3C has the [Semantic Web Rule Language](https://www.w3.org/Submission/SWRL) (SWRL). Its syntax is similar to a notation I learned during CMPE260: [Extended Backus–Naur form](https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form) (EBNF). They define rules as axioms: `axiom ::= rule`.
 
 The axioms have _antecedents_ (body) and _consequents_ (head), each composed of _atoms_. The rule may be defined as: `if antecedent, then consequent`. Basic atoms are of the forms:
 

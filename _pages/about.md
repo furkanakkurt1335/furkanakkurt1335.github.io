@@ -18,4 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an MSc student in Computer Engineering at [Boğaziçi University](https://boun.edu.tr) in Istanbul, Turkey, advised by [Susan Uskudarli](https://www.cmpe.boun.edu.tr/~uskudarli/). I am also a member of [TABILab](https://tabilab.cmpe.boun.edu.tr). My research interests include computational linguistics, natural language processing, and computational complexity.
+I am an MSc student in Computer Engineering at [Boğaziçi University](https://boun.edu.tr) in Istanbul, Turkey, advised by [Susan Uskudarli](https://www.cmpe.boun.edu.tr/~uskudarli). I am also a member of [TABILab](https://tabilab.cmpe.boun.edu.tr). My research interests include computational linguistics; specifically linguistic variation and phonology.
