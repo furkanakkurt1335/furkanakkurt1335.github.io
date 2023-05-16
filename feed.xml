@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://furkanakkurt1335.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://furkanakkurt1335.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-05-16T13:21:12+00:00</updated><id>https://furkanakkurt1335.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal page.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://furkanakkurt1335.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://furkanakkurt1335.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-05-16T14:08:59+00:00</updated><id>https://furkanakkurt1335.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal page.
 </subtitle><entry><title type="html">Yasiin Bey in Istanbul</title><link href="https://furkanakkurt1335.github.io/blog/2023/mos/" rel="alternate" type="text/html" title="Yasiin Bey in Istanbul" /><published>2023-03-21T00:00:00+00:00</published><updated>2023-03-21T00:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2023/mos</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2023/mos/"><![CDATA[<p>Suadiye, Istanbul, Turkey</p>
 
 <p>I have learned Yasiin Bey (aka Mos Def) was in Istanbul for an event helping raise funds for the earthquake relief efforts on Instagram at noon. I wasn’t supposed to check Instagram but still, I did. As soon as my class ended at 5 PM, I have left for Suadiye. I was hopeful I could see him, one of the greatest. It was close so I went there rather quickly. I have seen him with my best friend at the entrance of a clothing store where the event would take place. He was trying on some glasses. He was just the coolest. A picture below, he in red, me behind:</p>
@@ -125,11 +125,11 @@ IALs are constructed to be used to facilitate communication between persons of a
 <h2 id="references">References</h2>
 
 <ol>
-  <li><a href="https://archive.illc.uva.nl//EuroWordNet/">The EuroWordNet project</a></li>
-  <li><a href="https://vossen.info/">Piek Vossen</a></li>
-  <li><a href="http://globalwordnet.org/">Global WordNet Association</a></li>
+  <li><a href="https://archive.illc.uva.nl//EuroWordNet">The EuroWordNet project</a></li>
+  <li><a href="https://vossen.info">Piek Vossen</a></li>
+  <li><a href="http://globalwordnet.org">Global WordNet Association</a></li>
   <li><a href="https://github.com/globalwordnet/cili">Collaborative InterLingual Index</a></li>
-  <li><a href="https://wordnet.princeton.edu/">Princeton WordNet</a></li>
+  <li><a href="https://wordnet.princeton.edu">Princeton WordNet</a></li>
   <li><a href="https://en.wikipedia.org/wiki/International_auxiliary_language">International auxiliary language</a></li>
 </ol>]]></content><author><name></name></author><category term="ssw" /><category term="ontology" /><summary type="html"><![CDATA[Originally posted as part of the CMPE58H course at https://furkanakkurt5204.gitlab.io/personal/ontology/2022/12/21/interlingua.]]></summary></entry><entry><title type="html">Onto-</title><link href="https://furkanakkurt1335.github.io/blog/2022/onto/" rel="alternate" type="text/html" title="Onto-" /><published>2022-12-15T10:09:20+00:00</published><updated>2022-12-15T10:09:20+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2022/onto-</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2022/onto/"><![CDATA[<p>Originally posted as part of the <a href="https://cmpe.boun.edu.tr/courses/cmpe58h">CMPE58H</a> course at <code class="language-plaintext highlighter-rouge">https://furkanakkurt5204.gitlab.io/personal/ontology/2022/12/15/onto</code>.</p>
 
@@ -291,7 +291,7 @@ Shall be lifted—nevermore!</p>]]></content><author><name></name></author><cate
 
 <hr />
 
-<p>I wondered about reasoners. W3C has the <a href="https://www.w3.org/Submission/SWRL/">Semantic Web Rule Language</a> (SWRL). Its syntax is similar to a notation I learned during CMPE260: <a href="https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form">Extended Backus–Naur form</a> (EBNF). They define rules as axioms: <code class="language-plaintext highlighter-rouge">axiom ::= rule</code>.</p>
+<p>I wondered about reasoners. W3C has the <a href="https://www.w3.org/Submission/SWRL">Semantic Web Rule Language</a> (SWRL). Its syntax is similar to a notation I learned during CMPE260: <a href="https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form">Extended Backus–Naur form</a> (EBNF). They define rules as axioms: <code class="language-plaintext highlighter-rouge">axiom ::= rule</code>.</p>
 
 <p>The axioms have <em>antecedents</em> (body) and <em>consequents</em> (head), each composed of <em>atoms</em>. The rule may be defined as: <code class="language-plaintext highlighter-rouge">if antecedent, then consequent</code>. Basic atoms are of the forms:</p>
 
@@ -345,7 +345,7 @@ Shall be lifted—nevermore!</p>]]></content><author><name></name></author><cate
 I searched for some <em>Ontologist</em> jobs.
 I was pleased to see that the companies look for <em>linguists</em> as well as other technical professions.</p>
 
-<p>While at it, I saw <a href="https://www.linkedin.com/pulse/why-most-companies-need-ontologist-two-kurt-cagle/">one <em>ontologist</em> argue</a> that ontologists are language engineers: not in the sense of engineering or creating new languages (<a href="https://en.wikipedia.org/wiki/Constructed_language"><em>conlanging</em></a>), but standardizing the language used by a group of people working towards a goal.
+<p>While at it, I saw one <em>ontologist</em> argue<sup>1</sup> that ontologists are language engineers: not in the sense of engineering or creating new languages (<a href="https://en.wikipedia.org/wiki/Constructed_language"><em>conlanging</em></a>), but standardizing the language used by a group of people working towards a goal.
 I’m quoting, from his 2016 LinkedIn article:</p>
 
 <blockquote>
@@ -366,9 +366,9 @@ When an ontology is organized well, transferring work mentioned above becomes le
 
 <h2 id="reference">Reference</h2>
 
-<ul>
-  <li><a href="https://www.linkedin.com/pulse/why-most-companies-need-ontologist-two-kurt-cagle/">Why Most Companies Need An Ontologist (or Two) by Kurt Cagle on March 4, 2016 - LinkedIn article</a></li>
-</ul>]]></content><author><name></name></author><category term="ssw" /><category term="ontology" /><summary type="html"><![CDATA[Originally posted as part of the CMPE58H course at https://furkanakkurt5204.gitlab.io/personal/ontology/2022/11/15/ontologying.]]></summary></entry><entry><title type="html">Qualifiers among Triples</title><link href="https://furkanakkurt1335.github.io/blog/2022/qualifiers-among-triples/" rel="alternate" type="text/html" title="Qualifiers among Triples" /><published>2022-11-10T10:15:00+00:00</published><updated>2022-11-10T10:15:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2022/qualifiers-among-triples</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2022/qualifiers-among-triples/"><![CDATA[<p>Originally posted as part of the <a href="https://cmpe.boun.edu.tr/courses/cmpe58h">CMPE58H</a> course at <code class="language-plaintext highlighter-rouge">https://furkanakkurt5204.gitlab.io/personal/ontology/2022/11/10/qualifiers-among-triples</code>.</p>
+<ol>
+  <li>Why Most Companies Need An Ontologist (or Two) by Kurt Cagle on March 4, 2016 - LinkedIn article](https://www.linkedin.com/pulse/why-most-companies-need-ontologist-two-kurt-cagle)</li>
+</ol>]]></content><author><name></name></author><category term="ssw" /><category term="ontology" /><summary type="html"><![CDATA[Originally posted as part of the CMPE58H course at https://furkanakkurt5204.gitlab.io/personal/ontology/2022/11/15/ontologying.]]></summary></entry><entry><title type="html">Qualifiers among Triples</title><link href="https://furkanakkurt1335.github.io/blog/2022/qualifiers-among-triples/" rel="alternate" type="text/html" title="Qualifiers among Triples" /><published>2022-11-10T10:15:00+00:00</published><updated>2022-11-10T10:15:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2022/qualifiers-among-triples</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2022/qualifiers-among-triples/"><![CDATA[<p>Originally posted as part of the <a href="https://cmpe.boun.edu.tr/courses/cmpe58h">CMPE58H</a> course at <code class="language-plaintext highlighter-rouge">https://furkanakkurt5204.gitlab.io/personal/ontology/2022/11/10/qualifiers-among-triples</code>.</p>
 
 <hr />
 
@@ -382,11 +382,11 @@ When an ontology is organized well, transferring work mentioned above becomes le
 
 <hr />
 
-<p>Last week, we talked about a possible ontology for sign languages (SL) during the 58H project proposals. I searched if there were any attempts at it. There is a paper in 2022 working on just that, <a href="https://aclanthology.org/2022.lrec-1.423">Towards a new Ontology for Sign Languages</a> (Declerck, LREC 2022). In the paper, the authors talk about their ongoing work on including multimodal lexical data in <a href="https://www.w3.org/2019/09/lexicog/">the OntoLex-Lemon framework</a> with the result of <a href="https://github.com/Declerck/sl-onto">the first edition of their ontology</a>. An excerpt from the ontology is at the end.</p>
+<p>Last week, we talked about a possible ontology for sign languages (SL) during the 58H project proposals. I searched if there were any attempts at it. There is a paper in 2022 working on just that, <a href="https://aclanthology.org/2022.lrec-1.423">Towards a new Ontology for Sign Languages</a> (Declerck, LREC 2022). In the paper, the authors talk about their ongoing work on including multimodal lexical data in <a href="https://www.w3.org/2019/09/lexicog">the OntoLex-Lemon framework</a> with the result of <a href="https://github.com/Declerck/sl-onto">the first edition of their ontology</a>. An excerpt from the ontology is at the end.</p>
 
 <p>Integrating multimodality of natural languages, like sign languages, into the framework of OntoLex-Lemon is quite on point. Although modalities may differ between spoken and signed languages, they share quite a lot and can be represented with a single model.</p>
 
-<p>Still, <em>sign language</em> represented quite a challenge for them, as it’s quite concentrated on the movements of a person, since the framework was created specifically for written or phonetic representations of lexical data. Starting the work, they realized that a comprehensive study of “LD (Linked Data) compliant description of the constitutive elements of sign languages” is necessary. They also mention that discussions regarding “the representation of multimodal language data”, first focus being on SLs, started in <a href="https://www.w3.org/community/ontolex/">the “Ontology Lexica” W3C Community</a>, a good sign.</p>
+<p>Still, <em>sign language</em> represented quite a challenge for them, as it’s quite concentrated on the movements of a person, since the framework was created specifically for written or phonetic representations of lexical data. Starting the work, they realized that a comprehensive study of “LD (Linked Data) compliant description of the constitutive elements of sign languages” is necessary. They also mention that discussions regarding “the representation of multimodal language data”, first focus being on SLs, started in <a href="https://www.w3.org/community/ontolex">the “Ontology Lexica” W3C Community</a>, a good sign.</p>
 
 <h2 id="excerpt-from-the-ontology">Excerpt from the ontology</h2>
 
@@ -404,18 +404,18 @@ sldc:BackOfHand
 
 <hr />
 
-<p><a href="https://www.w3.org/2016/05/ontolex/">OntoLex-Lemon</a> is a model for representing lexicographical ontologies, <em>lemon</em> being short for <em>lexicon model for ontologies</em>. It was developed because ontology languages, OWL and RDF(S), didn’t allow furnishing ontologies with linguistic information so a resource like <a href="https://wordnet.princeton.edu/">WordNet</a> wasn’t possible. They mention in their community report that “OWL and RDF(S) rely on a property [named] <em>rdfs:label</em>” to show a relation between a vocabulary element and its lexicalization. This single property is not in the least sufficient for a human language.<sup>1</sup></p>
+<p>OntoLex-Lemon<sup>1</sup> is a model for representing lexicographical ontologies, <em>lemon</em> being short for <em>lexicon model for ontologies</em>. It was developed because ontology languages, OWL and RDF(S), didn’t allow furnishing ontologies with linguistic information so a resource like <a href="https://wordnet.princeton.edu">WordNet</a> wasn’t possible. They mention in their community report that “OWL and RDF(S) rely on a property [named] <em>rdfs:label</em>” to show a relation between a vocabulary element and its lexicalization. This single property is not in the least sufficient for a human language.<sup>1</sup></p>
 
 <p>Thanks to OntoLex-Lemon, WordNet has powered so many NLP applications of English and made them possible. Many languages lack a wordnet as creation of one requires manual annotation of thousands upon thousands entries as well as consistent and accurate lexical data collection. Because human languages are results of the human brain, they share a lot in common and all of their needs can be fulfilled by a single lexicon model. Also, the OntoLex-Lemon model is open to extensions and its vocabulary can be augmented on an application basis. Human languages are very similar but since linguistic theories vary, the model has been made sure to be abstracted from specific theories.<sup>1</sup></p>
 
 <p><img src="/ssw/images/core-model.webp" alt="Core Model" /></p>
 
-<p>A representative image of the model is provided in their document, which I’ve provided just above. In the image, boxes represent classes, filled arrows represent object properties and non-filled arrows are for subclass relations. Main class of the model is <em>Lexical Entry</em> which is further specialized into three: word, multiword expression and an affix (prefix, suffix, etc.). For a word example, we can represent the word <em>cat</em> in <a href="http://www.w3.org/TR/turtle/">Turtle RDF Syntax</a> as the triple: <em>:cat a ontolex:Word</em>.<sup>1</sup></p>
+<p>A representative image of the model is provided in their document, which I’ve provided just above. In the image, boxes represent classes, filled arrows represent object properties and non-filled arrows are for subclass relations. Main class of the model is <em>Lexical Entry</em> which is further specialized into three: word, multiword expression and an affix (prefix, suffix, etc.). For a word example, we can represent the word <em>cat</em> in <a href="http://www.w3.org/TR/turtle">Turtle RDF Syntax</a> as the triple: <em>:cat a ontolex:Word</em>.<sup>1</sup></p>
 
-<p>For more information, please see <a href="https://www.w3.org/2016/05/ontolex/">the community report</a>, dated 5/10/2016.</p>
+<p>For more information, please see the community report, dated 5/10/2016.<sup>1</sup></p>
 
 <h2 id="references">References</h2>
 
 <ol>
-  <li><a href="https://www.w3.org/2016/05/ontolex/">https://www.w3.org/2016/05/ontolex/</a></li>
+  <li><a href="https://www.w3.org/2016/05/ontolex">https://www.w3.org/2016/05/ontolex/</a></li>
 </ol>]]></content><author><name></name></author><category term="ssw" /><category term="linguistics" /><summary type="html"><![CDATA[Originally posted as part of the CMPE58H course at https://medium.com/@furkanakkurt7642/some-ontolex-lemon-798779392f0a.]]></summary></entry></feed>
