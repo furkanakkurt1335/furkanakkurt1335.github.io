@@ -46,7 +46,11 @@ Adele
 
 Good morning 🌄
 
-![me-cam-roll](images/me-cam-roll.jpg)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/diary/images/me-cam-roll.jpg" title="me-cam-roll" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 #### 17
 
@@ -83,6 +87,7 @@ Fiddling around to structure the web pages for a while now, 22:47
 Seen mu2q on Google Podcasts now as well, nice. Tried to make an RSS parser of sorts, 23:09  
 Just listened to some Sami Yusuf with my little brother 🧒, as it's our drifting-to-sleep ritual 23:51  
 Let me include some 'Sari Gelin':
+
 > Bu sevda nə sevdadır  
 Səni mənə verməzlər  
 ..  
@@ -103,7 +108,11 @@ I just ate two pieces of laḥm ʿajīn (aka Turkish Pizza) and they were delici
 Starting. Logged off WiFi today. How ironic I'm writing this while on. 7:13  
 You know I was at that park yesterday, biking. This is a photo: (7:19)  
 
-![biking](images/biking.jpg)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/diary/images/biking.jpg" title="biking" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 Played 'Phasmophobia' yesterday night with Emre and Emin abi. I don't like them scary games at all. 7:29  
 12p woke up, must study for the math final tomorrow. 12:36 [study for _the math final tomorrow_, not _study_

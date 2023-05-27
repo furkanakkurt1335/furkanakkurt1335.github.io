@@ -4,11 +4,23 @@ title: Crow Appreciation
 permalink: /gallery/animal-appreciation/crow/
 ---
 
-![crow-snow](images/crow-snow.jpg)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/gallery/animal-appreciation/crow/images/crow-snow.jpg" title="crow-snow" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
-![anime-1](images/anime-1.jpg)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/gallery/animal-appreciation/crow/images/anime-1.jpg" title="anime-1" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
-![anime-2](images/anime-2.jpg)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/gallery/animal-appreciation/crow/images/anime-2.jpg" title="anime-2" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ---
 
@@ -20,24 +32,64 @@ Representative Audio
 
 ---
 
-![1](images/1.png)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/gallery/animal-appreciation/crow/images/1.png" title="1" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
-![2](images/2.png)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/gallery/animal-appreciation/crow/images/2.png" title="2" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
-![3](images/3.png)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/gallery/animal-appreciation/crow/images/3.png" title="3" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
-![4](images/4.png)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/gallery/animal-appreciation/crow/images/4.png" title="4" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
-![5](images/5.png)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/gallery/animal-appreciation/crow/images/5.png" title="5" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
-![6](images/6.png)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/gallery/animal-appreciation/crow/images/6.png" title="6" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
-![7](images/7.png)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/gallery/animal-appreciation/crow/images/7.png" title="7" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
-![8](images/8.png)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/gallery/animal-appreciation/crow/images/8.png" title="8" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
-![9](images/9.png)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/gallery/animal-appreciation/crow/images/9.png" title="9" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
-![10](images/10.png)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+    {% include figure.html path="/gallery/animal-appreciation/crow/images/10.png" title="10" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 I just left the Scarecrow Appreciation Society. They sent me with open arms.

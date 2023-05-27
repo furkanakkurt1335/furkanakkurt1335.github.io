@@ -36,13 +36,23 @@ Malcolm
 
 ---
 
-Drums and 'daf' included in percussion instruments, it's by striking (_percutere_):
-
-![percutere](images/percutere.png)
+<div class="caption">
+    Drums and 'daf' included in percussion instruments, it's by striking (_percutere_):
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        {% include figure.html path="/linguistics/images/percutere.png" title="percutere" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ---
 
-![old-turkic](images/name in old turkic script 2.png)  
-
-I guess one'd write my name like this, right? (Old Turkic Script)  
-No h and f, I guess.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        {% include figure.html path="/linguistics/images/name-old-turkic.png" title="name-old-turkic" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    I guess one'd write my name like this, right? (Old Turkic Script)  
+    No h and f, I guess.
+</div>
