@@ -1,11 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://furkanakkurt1335.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://furkanakkurt1335.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-05-27T19:27:44+00:00</updated><id>https://furkanakkurt1335.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal page.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://furkanakkurt1335.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://furkanakkurt1335.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-05-27T20:35:25+00:00</updated><id>https://furkanakkurt1335.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal page.
 </subtitle><entry><title type="html">Yasiin Bey in Istanbul</title><link href="https://furkanakkurt1335.github.io/blog/2023/mos/" rel="alternate" type="text/html" title="Yasiin Bey in Istanbul" /><published>2023-03-21T00:00:00+00:00</published><updated>2023-03-21T00:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2023/mos</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2023/mos/"><![CDATA[<p>Suadiye, Istanbul, Turkey</p>
 
 <p>I have learned Yasiin Bey (aka Mos Def) was in Istanbul for an event helping raise funds for the earthquake relief efforts on Instagram at noon. I wasn’t supposed to check Instagram but still, I did. As soon as my class ended at 5 PM, I have left for Suadiye. I was hopeful I could see him, one of the greatest. It was close so I went there rather quickly. I have seen him with my best friend at the entrance of a clothing store where the event would take place. He was trying on some glasses. He was just the coolest. A picture below, he in red, me behind:</p>
 
-<p><img src="/blog/images/mos-me.jpg" alt="mos-me" /></p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
 
-<p>Above, they’re going to a restaurant to eat (expensive).</p>
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/blog/images/mos-me-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/blog/images/mos-me-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/blog/images/mos-me-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/blog/images/mos-me.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="mos-me" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    Here, they're going to a restaurant to eat (expensive).
+</div>
 
 <p>I was planning to talk to him but I didn’t. I should have rapped at him, his lyrics. I should have said:</p>
 <blockquote>
@@ -142,8 +162,29 @@ Ontology in the field of computer science is, as expected, very much related to 
 
 <h2 id="tower-of-babel">Tower of Babel</h2>
 
-<p><img src="/ssw/images/tower-babel.jpg" alt="Tower of Babel (1563)" /></p>
-<p style="text-align:center"> The Tower of Babel by Pieter Bruegel the Elder (1563) <sup>1</sup> </p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/ssw/images/tower-babel-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/ssw/images/tower-babel-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/ssw/images/tower-babel-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/ssw/images/tower-babel.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="The Tower of Babel by Pieter Bruegel the Elder (1563)" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    The Tower of Babel by Pieter Bruegel the Elder (1563) <sup>1</sup>
+</div>
 
 <p><a href="https://en.wikipedia.org/wiki/Tower_of_Babel">The <em>tower of babel</em> narrative</a> tries to explain why humans have languages so diverse.
 In the narrative, a human race with a single language gets scattered around the world and their language confused.
@@ -408,7 +449,29 @@ sldc:BackOfHand
 
 <p>Thanks to OntoLex-Lemon, WordNet has powered so many NLP applications of English and made them possible. Many languages lack a wordnet as creation of one requires manual annotation of thousands upon thousands entries as well as consistent and accurate lexical data collection. Because human languages are results of the human brain, they share a lot in common and all of their needs can be fulfilled by a single lexicon model. Also, the OntoLex-Lemon model is open to extensions and its vocabulary can be augmented on an application basis. Human languages are very similar but since linguistic theories vary, the model has been made sure to be abstracted from specific theories.<sup>1</sup></p>
 
-<p><img src="/ssw/images/core-model.webp" alt="Core Model" /></p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/ssw/images/core-model.webp-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/ssw/images/core-model.webp-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/ssw/images/core-model.webp-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/ssw/images/core-model.webp" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="Core Model" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    Core Model
+</div>
 
 <p>A representative image of the model is provided in their document, which I’ve provided just above. In the image, boxes represent classes, filled arrows represent object properties and non-filled arrows are for subclass relations. Main class of the model is <em>Lexical Entry</em> which is further specialized into three: word, multiword expression and an affix (prefix, suffix, etc.). For a word example, we can represent the word <em>cat</em> in <a href="http://www.w3.org/TR/turtle">Turtle RDF Syntax</a> as the triple: <em>:cat a ontolex:Word</em>.<sup>1</sup></p>
 
