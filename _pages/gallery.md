@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery
-permalink: /gallery
+permalink: /gallery/
 ---
 
 - [Animal Appreciation](/gallery/animal-appreciation)
