@@ -32,12 +32,12 @@ Reporter
 Malcolm
 > I consider myself Malcolm.
 
-😂😉 [Link 1](https://youtu.be/56MFtl7WGHk) [Link 2](https://youtu.be/zn_67oRe_-A?t=178)
+:joy::wink: [Link 1](https://youtu.be/56MFtl7WGHk) [Link 2](https://youtu.be/zn_67oRe_-A?t=178)
 
 ---
 
 <div class="caption">
-    Drums and 'daf' included in percussion instruments, it's by striking (_percutere_):
+    Drums and "daf" included in percussion instruments, it's by striking (<i>percutere</i>):
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">

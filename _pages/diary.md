@@ -61,8 +61,9 @@ Let's begin
 #### 10
 
 Common dropped some jewels today, I see:
+
 > Whether facing the East or facing the beast  
-I'ma keep fighting 'til the world say, "Peace"
+> I'ma keep fighting 'til the world say, "Peace"
 
 #### 9
 
