@@ -42,9 +42,11 @@ Watching 'Wife of a Spy (2020)' [film of the day on MUBI], 15:42
 1h27m, is there a twist coming right about now 😶, 18:21  
 Do we say it like this in Turkey? :
 
-<video controls style="width:80%">
-    <source src="videos/hayhay.mp4" type="video/mp4">
-</video>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="/movies/videos/hayhay.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
 
 Finished the film. So what really happened to the _spy_ though? And did he snitch on his wife, by _pointing to the ship_? Can Kurosawa-san answer these questions? 🤷‍♂️
 
