@@ -4,7 +4,11 @@ title: Sheep Appreciation
 permalink: /gallery/animal-appreciation/sheep/
 ---
 
-<video controls src="videos/Lamb, Baa.mp4" poster="videos/poster1.jpg" style="width: 80%;"></video>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="/gallery/animal-appreciation/sheep/videos/Lamb, Baa.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
