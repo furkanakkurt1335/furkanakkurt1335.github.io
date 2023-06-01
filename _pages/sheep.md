@@ -6,7 +6,7 @@ permalink: /gallery/animal-appreciation/sheep/
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="/gallery/animal-appreciation/sheep/videos/Lamb, Baa.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.html path="/gallery/animal-appreciation/sheep/videos/baa.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
 
