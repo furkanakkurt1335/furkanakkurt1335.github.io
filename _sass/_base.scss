@@ -54,7 +54,7 @@ table.table a {
 
 figure,
 img {
-  max-width: 100%;
+  max-width: 90vw;
 }
 
 blockquote {
@@ -62,7 +62,7 @@ blockquote {
   border-left: 2px solid var(--global-theme-color);
   margin: 1.5em 10px;
   padding: 0.5em 10px;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 
 // Math
@@ -305,7 +305,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 2rem;
+    font-size: 4rem;
 
     a {
       i::before {
