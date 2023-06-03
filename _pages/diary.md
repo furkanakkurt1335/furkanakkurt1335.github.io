@@ -4,6 +4,14 @@ title: Diary
 permalink: /diary/
 ---
 
+## 2023
+
+### June
+
+#### 3
+
+Obsidian better than Notion.
+
 ## 2022
 
 ### May
