@@ -114,12 +114,14 @@ I just ate two pieces of laḥm ʿajīn (aka Turkish Pizza) and they were delici
 
 #### 5
 
-Starting. Logged off WiFi today. How ironic I'm writing this while on. 7:13  
-You know I was at that park yesterday, biking. This is a photo: (7:19)  
+Starting. Logged off WiFi today. How ironic I'm writing this while on. 7:13
 
+<div class="caption">
+    You know I was at that park yesterday, biking. This is a photo. (7:19)
+</div>
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/diary/images/biking.jpg" title="biking" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-5 mt-3 mt-md-0 text-center">
+        {% include figure.html path="/diary/images/biking.jpg" title="biking" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 

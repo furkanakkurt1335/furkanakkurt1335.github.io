@@ -41,7 +41,7 @@ Malcolm
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.html path="/linguistics/images/percutere.png" title="percutere" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/linguistics/images/percutere.png" title="percutere" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -49,7 +49,7 @@ Malcolm
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.html path="/linguistics/images/name-old-turkic.png" title="name-old-turkic" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/linguistics/images/name-old-turkic.png" title="name-old-turkic" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
