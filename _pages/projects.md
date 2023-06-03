@@ -5,7 +5,7 @@ permalink: /projects/
 description: Projects I have been involved in.
 nav: true
 nav_order: 2
-display_categories: ['tabilab']
+display_categories: [tabilab]
 horizontal: false
 ---
 
