@@ -23,6 +23,9 @@ children:
     - title: meta
       permalink: /meta/
     - title: divider
+    - title: puzzles
+      permalink: /puzzles/
+    - title: divider
     - title: quotes
       permalink: /quotes/
     - title: divider

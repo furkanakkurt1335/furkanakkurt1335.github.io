@@ -21,7 +21,7 @@ permalink: /puzzles/kenken/
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="/puzzles/_pages/kenken/images/55931.png" title="KenKen #55931" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/puzzles/kenken/images/55931.png" title="KenKen #55931" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
