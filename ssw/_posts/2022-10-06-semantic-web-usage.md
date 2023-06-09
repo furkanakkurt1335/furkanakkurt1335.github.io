@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Semantic Web Usage"
-date:   2022-10-06
-categories: ssw
+title: Semantic Web Usage
+date: 2022-10-06
 giscus_comments: true
 ---
 

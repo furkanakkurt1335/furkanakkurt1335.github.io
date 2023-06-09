@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Ontologying"
+title: Ontologying
 date: 2022-11-15 17:21:00 +0300
-categories: ssw
 tags: ontology
 giscus_comments: true
 ---

@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Some OntoLex-Lemon"
-date:   2022-10-27
-categories: ssw
+title: Some OntoLex-Lemon
+date: 2022-10-27
 tags: linguistics
 giscus_comments: true
 ---

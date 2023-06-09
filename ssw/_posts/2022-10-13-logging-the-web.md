@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Logging the Web"
-date:   2022-10-13
-categories: ssw
+title: Logging the Web
+date: 2022-10-13
 giscus_comments: true
 ---
 

@@ -60,7 +60,7 @@ Just watching this documentary on Amazon Prime called "One Child Nation" (2019).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/movies/images/villager, sterilization.png" title="villager, sterilization" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="/movies/images/villager-sterilization.png" title="villager-sterilization" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -70,7 +70,7 @@ Okay, just finished it. No words. I'll leave a picture here:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/movies/images/writing, wall.jpg" title="writing, wall" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="/movies/images/writing-wall.jpg" title="writing-wall" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 

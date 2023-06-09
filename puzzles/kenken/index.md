@@ -6,15 +6,15 @@ permalink: /puzzles/kenken/
 
 ## Instructions
 
-- Fill the cells.
-- **Bold** irregularly-shaped boxes represent blocks.
-- Number and operation on a block's top-left corner represents the entire block.
-- 4 operations for blocks: ➕ ➖ ✖️ ➗
-	- ➕ : Numbers of the block should add up to the representative number.
-	- ➖ : Absolute difference of two numbers in the block should equal the *representative*.
-	- ✖️ : Multiplying the numbers should equal the *representative*.
-	- ➗ : Dividing the larger number by the smaller number should equal the *representative*.
+- Fill the cells with numbers $$1$$ through $$N$$ in a grid of size $$N\times N$$.
 - No number repeated in a row or column.
+- **Bold** irregularly-shaped boxes represent blocks.
+- Number and operation on a block's top-left corner *represents* the entire block.
+- 4 operations
+	- $$+$$ : Numbers of the block should add up to the representative number.
+	- $$-$$ : Absolute difference of two numbers in the block should equal the *representative*.
+	- $$\times$$ : Multiplying the numbers should equal the *representative*.
+	- $$\div$$ : Dividing the larger number by the smaller number should equal the *representative*.
 - Use the *representative* if there's no operation.
 
 ## Example Game (5x5, #55931)
