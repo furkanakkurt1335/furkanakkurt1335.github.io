@@ -1,5 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://furkanakkurt1335.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://furkanakkurt1335.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-09T19:38:50+00:00</updated><id>https://furkanakkurt1335.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal page.
-</subtitle><entry><title type="html">Turkish Crossword</title><link href="https://furkanakkurt1335.github.io/blog/2023/turkish-crossword/" rel="alternate" type="text/html" title="Turkish Crossword" /><published>2023-06-09T00:00:00+00:00</published><updated>2023-06-09T00:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2023/turkish-crossword</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2023/turkish-crossword/"><![CDATA[<p>Crossword looks beautiful, if done right.</p>]]></content><author><name></name></author><category term="puzzles" /><summary type="html"><![CDATA[Crossword looks beautiful, if done right.]]></summary></entry><entry><title type="html">🐐</title><link href="https://furkanakkurt1335.github.io/blog/2023/goat/" rel="alternate" type="text/html" title="🐐" /><published>2023-06-03T00:00:00+00:00</published><updated>2023-06-03T00:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2023/goat</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2023/goat/"><![CDATA[<p>Rap is competitive. There aren’t many rappers not competitive in their lyrics. I can’t think of <em>one</em> but I’m sure they exist. Rap comes in many subgenres but all aspire to be the greatest of the entire <em>game</em>. Who’s got it?</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://furkanakkurt1335.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://furkanakkurt1335.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-10T22:46:47+00:00</updated><id>https://furkanakkurt1335.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal page.
+</subtitle><entry><title type="html">Turkish Crosswords</title><link href="https://furkanakkurt1335.github.io/blog/2023/turkish-crosswords/" rel="alternate" type="text/html" title="Turkish Crosswords" /><published>2023-06-09T00:00:00+00:00</published><updated>2023-06-09T00:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2023/turkish-crosswords</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2023/turkish-crosswords/"><![CDATA[<p>Crosswords look beautiful, if done right. It’s indeed a work of art.</p>
+
+<p>Crosswords are very popular in Turkey as they are in many daily newspapers. I think we can increase the quality by a few restrictions, included below. These restrictions are from <a href="https://www.nytimes.com/crosswords">The New York Times crossword</a> rules.</p>
+
+<h2 id="restrictions">Restrictions</h2>
+
+<ul>
+  <li>No 2-letter words
+    <ul>
+      <li>Many crosswords use the trick of using 2-letter words, such as “Bir nota” (A note) or “Plutonyum simgesi” (Symbol of plutonium). These are easy ways to fill the crossword, but they are not fun to solve. They are also too repetitive and not creative. Creativity is another point below.</li>
+    </ul>
+  </li>
+  <li>Not including the answer in the question
+<!-- should include an example here --></li>
+  <li>Diagonal symmetry (see below)
+    <ul>
+      <li>This makes the crossword look beautiful.</li>
+    </ul>
+  </li>
+</ul>
+
+<div class="row">
+    <div class="col-md-6">
+        <img src="/puzzles/images/symmetric.png" title="symmetric" class="img-fluid rounded z-depth-1" /> 
+    </div>
+    <div class="caption">
+        Diagonally symmetric crossword<sup>1</sup>
+    </div>
+</div>
+
+<ul>
+  <li>Creativity
+    <ul>
+      <li>Questions like “Bir ilimiz” (One of our cities) are not creative and lack beauty.</li>
+    </ul>
+  </li>
+</ul>
+
+<!-- continue with the restrictions -->
+
+<h2 id="references">References</h2>
+
+<ol>
+  <li><a href="https://www.nytimes.com/crosswords/game/daily/2023/06/11">Sunday, June 11, 2023 Daily Crossword Puzzle of The New York Times</a></li>
+</ol>]]></content><author><name></name></author><category term="puzzles" /><summary type="html"><![CDATA[Crosswords look beautiful, if done right. It’s indeed a work of art.]]></summary></entry><entry><title type="html">🐐</title><link href="https://furkanakkurt1335.github.io/blog/2023/goat/" rel="alternate" type="text/html" title="🐐" /><published>2023-06-03T00:00:00+00:00</published><updated>2023-06-03T00:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2023/goat</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2023/goat/"><![CDATA[<p>Rap is competitive. There aren’t many rappers not competitive in their lyrics. I can’t think of <em>one</em> but I’m sure they exist. Rap comes in many subgenres but all aspire to be the greatest of the entire <em>game</em>. Who’s got it?</p>
 
 <p>There is the idea that there are many goats. If you’re one of the goats, I’m sure you think you’re <em>the</em> <span style="color:gray">(/ˈðiː/)</span> goat. Symba articulates this in <a href="https://open.spotify.com/track/2hXfs7Y9jN0Vfh5YVJQtHn?si=4f826a0b918741e3">GOAT</a> well.</p>
 
