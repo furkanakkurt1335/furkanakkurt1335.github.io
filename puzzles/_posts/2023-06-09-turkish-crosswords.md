@@ -18,13 +18,13 @@ Crosswords are very popular in Turkey as they are published daily in many newspa
 - Diagonal symmetry (see below)
     - This makes the crossword look beautiful.
 
-<div class="row">
+<div class="row justify-content-center">
     <div class="col-md-6">
         <img src="/puzzles/images/symmetric.png" title="symmetric" class="img-fluid rounded z-depth-1">
     </div>
-    <div class="caption">
-        Diagonally symmetric crossword<sup>1</sup>
-    </div>
+</div>
+<div class="caption">
+    Diagonally symmetric crossword<sup>1</sup>
 </div>
 
 - Creativity
@@ -32,14 +32,13 @@ Crosswords are very popular in Turkey as they are published daily in many newspa
     - Using the same question again and again is not creative also. It gets boring and turns into memorization.
 - No leaving of trailing blocks (blocks that are left alone in a row or column, see below)
 
-<div class="row">
+<div class="row justify-content-center">
     <div class="col-md-6">
         <img src="/puzzles/images/trailing.jpg" title="trailing" class="img-fluid rounded z-depth-1">
     </div>
-    <div class="caption">
-        A trailing block<sup>2</sup><br>
-        It's trailing because there is no 'down' question for it.
-    </div>
+</div>
+<div class="caption">
+    A trailing block because there is no 'down' question for it.<sup>2</sup>
 </div>
 
 <!-- continue with the restrictions -->
