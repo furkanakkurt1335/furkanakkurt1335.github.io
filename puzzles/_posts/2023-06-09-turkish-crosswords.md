@@ -7,7 +7,7 @@ giscus_comments: true
 
 Crosswords look beautiful, if done right. It's indeed a work of art.
 
-Crosswords are very popular in Turkey as they are in many daily newspapers. I think we can increase the quality by a few restrictions, included below. These restrictions are from [The New York Times crossword](https://www.nytimes.com/crosswords) rules.
+Crosswords are very popular in Turkey as they are published daily in many newspapers. I think we can increase the quality by a few restrictions, included below. These restrictions are from [The New York Times crossword](https://www.nytimes.com/crosswords) rules.
 
 ## Restrictions
 
