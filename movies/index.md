@@ -8,13 +8,13 @@ permalink: /movies/
 
 ### 3/25
 
-<div class="caption">
-    Pachinko
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="/movies/images/girl.jpg" title="girl" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+</div>
+<div class="caption">
+    Girl from [Pachinko](https://tv.apple.com/us/show/pachinko/umc.cmc.17vf6g68dy89kk1l1nnb6min4)
 </div>
 
 ## 2021
@@ -25,7 +25,7 @@ Blood Brothers, Malcolm X and Muhammad Ali, Netflix Documentary (2021); What kin
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/movies/images/ali lawyer.png" title="ali lawyer" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="/movies/images/ali-lawyer.png" title="ali-lawyer" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
