@@ -20,7 +20,7 @@ Crosswords are very popular in Turkey as they are in many daily newspapers. I th
 
 <div class="row">
     <div class="col-md-6">
-        <img src="/puzzles/images/symmetric.png" title="symmetric" class="img-fluid rounded z-depth-1"> 
+        <img src="/puzzles/images/symmetric.png" title="symmetric" class="img-fluid rounded z-depth-1">
     </div>
     <div class="caption">
         Diagonally symmetric crossword<sup>1</sup>
@@ -29,9 +29,22 @@ Crosswords are very popular in Turkey as they are in many daily newspapers. I th
 
 - Creativity
     - Questions like "Bir ilimiz" (One of our cities) are not creative and lack beauty.
+- No leaving of trailing blocks.
+    - They are the blocks left alone in a row or column.
+
+<div class="row">
+    <div class="col-md-6">
+        <img src="/puzzles/images/trailing.jpg" title="trailing" class="img-fluid rounded z-depth-1">
+    </div>
+    <div class="caption">
+        A trailing block<sup>2</sup><br>
+        It's trailing because there is no 'down' question for it.
+    </div>
+</div>
 
 <!-- continue with the restrictions -->
 
 ## References
 
 1. [Sunday, June 11, 2023 Daily Crossword Puzzle of The New York Times](https://www.nytimes.com/crosswords/game/daily/2023/06/11)
+2. [Sunday, April 15, 2018 Crossword of Habertürk](https://kalustsalcioglu.com/2018/04/15/15-nisan-2018-haberturk-gazetesi-cengel-bulmaca-fotograftaki-oyuncu/)
