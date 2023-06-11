@@ -29,6 +29,7 @@ Crosswords are very popular in Turkey as they are published daily in many newspa
 
 - Creativity
     - Questions like "Bir ilimiz" (One of our cities) are not creative and lack beauty.
+    - Using the same question again and again is not creative also. It gets boring and turns into memorization.
 - No leaving of trailing blocks (blocks that are left alone in a row or column, see below)
 
 <div class="row">
