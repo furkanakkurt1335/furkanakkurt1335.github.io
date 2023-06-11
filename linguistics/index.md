@@ -6,6 +6,8 @@ permalink: /linguistics/
 
 - [Posts](/blog/category/linguistics/)
 
+---
+
 ## 2021
 
 ### 9/14
