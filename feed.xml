@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://furkanakkurt1335.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://furkanakkurt1335.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-11T09:58:00+00:00</updated><id>https://furkanakkurt1335.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal page.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://furkanakkurt1335.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://furkanakkurt1335.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-11T10:10:00+00:00</updated><id>https://furkanakkurt1335.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal page.
 </subtitle><entry><title type="html">Turkish Crosswords</title><link href="https://furkanakkurt1335.github.io/blog/2023/turkish-crosswords/" rel="alternate" type="text/html" title="Turkish Crosswords" /><published>2023-06-09T00:00:00+00:00</published><updated>2023-06-09T00:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2023/turkish-crosswords</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2023/turkish-crosswords/"><![CDATA[<p>Crosswords look beautiful, if done right. It’s indeed a work of art.</p>
 
 <p>Crosswords are very popular in Turkey as they are published daily in many newspapers. I think we can increase the quality by a few restrictions, included below. These restrictions are from <a href="https://www.nytimes.com/crosswords">The New York Times crossword</a> rules.</p>
@@ -20,13 +20,13 @@
   </li>
 </ul>
 
-<div class="row">
+<div class="row justify-content-center">
     <div class="col-md-6">
         <img src="/puzzles/images/symmetric.png" title="symmetric" class="img-fluid rounded z-depth-1" />
     </div>
-    <div class="caption">
-        Diagonally symmetric crossword<sup>1</sup>
-    </div>
+</div>
+<div class="caption">
+    Diagonally symmetric crossword<sup>1</sup>
 </div>
 
 <ul>
@@ -39,14 +39,13 @@
   <li>No leaving of trailing blocks (blocks that are left alone in a row or column, see below)</li>
 </ul>
 
-<div class="row">
+<div class="row justify-content-center">
     <div class="col-md-6">
         <img src="/puzzles/images/trailing.jpg" title="trailing" class="img-fluid rounded z-depth-1" />
     </div>
-    <div class="caption">
-        A trailing block<sup>2</sup><br />
-        It's trailing because there is no 'down' question for it.
-    </div>
+</div>
+<div class="caption">
+    A trailing block because there is no 'down' question for it.<sup>2</sup>
 </div>
 
 <!-- continue with the restrictions -->
