@@ -29,8 +29,7 @@ Crosswords are very popular in Turkey as they are published daily in many newspa
 
 - Creativity
     - Questions like "Bir ilimiz" (One of our cities) are not creative and lack beauty.
-- No leaving of trailing blocks.
-    - They are the blocks left alone in a row or column.
+- No leaving of trailing blocks (blocks that are left alone in a row or column, see below)
 
 <div class="row">
     <div class="col-md-6">
