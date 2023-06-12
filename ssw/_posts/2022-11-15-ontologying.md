@@ -14,7 +14,7 @@ We talked about what ontologists do last week in class.
 I searched for some _Ontologist_ jobs.
 I was pleased to see that the companies look for _linguists_ as well as other technical professions.
 
-While at it, I saw one _ontologist_ argue<sup>1</sup> that ontologists are language engineers: not in the sense of engineering or creating new languages ([_conlanging_](https://en.wikipedia.org/wiki/Constructed_language)), but standardizing the language used by a group of people working towards a goal.
+While at it, I saw one _ontologist_ argue<sup>[1](#references)</sup> that ontologists are language engineers: not in the sense of engineering or creating new languages ([_conlanging_](https://en.wikipedia.org/wiki/Constructed_language)), but standardizing the language used by a group of people working towards a goal.
 I'm quoting, from his 2016 LinkedIn article:
 
 > <span style="font-family: tahoma; font-style: normal">I would estimate that 50% of all code that has been written in the last twenty years [is for] translating between representations.</span>
@@ -33,4 +33,4 @@ When an ontology is organized well, transferring work mentioned above becomes le
 
 ## Reference
 
-1. Why Most Companies Need An Ontologist (or Two) by Kurt Cagle on March 4, 2016 - LinkedIn article](https://www.linkedin.com/pulse/why-most-companies-need-ontologist-two-kurt-cagle)
+1. [Why Most Companies Need An Ontologist (or Two) by Kurt Cagle on March 4, 2016 - LinkedIn article](https://www.linkedin.com/pulse/why-most-companies-need-ontologist-two-kurt-cagle)

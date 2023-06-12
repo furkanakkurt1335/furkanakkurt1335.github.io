@@ -10,18 +10,18 @@ Originally posted as part of the [CMPE58H](https://cmpe.boun.edu.tr/courses/cmpe
 
 ---
 
-The EuroWordNet project<sup>1</sup> aimed to "develop a multilingual database with wordnets in several European languages".
-It was started in 1996 and its project manager was Piek Vossen<sup>2</sup>.
+The EuroWordNet project<sup>[1](#references)</sup> aimed to "develop a multilingual database with wordnets in several European languages".
+It was started in 1996 and its project manager was Piek Vossen<sup>[2](#references)</sup>.
 They produced wordnets for many European languages as a part of this project.
 The files were not open to the public and they had Euro rates per synsets.
 
-Continuing with this idea, Mr Vossen founded the Global WordNet Association<sup>3</sup> (GWA).
-GWA has the Collaborative InterLingual Index<sup>4</sup> (CILI) which provides mappings from their generated URIs of concepts to the Princeton WordNet's<sup>5</sup> URIs.
+Continuing with this idea, Mr Vossen founded the Global WordNet Association<sup>[3](#references)</sup> (GWA).
+GWA has the Collaborative InterLingual Index<sup>[4](#references)</sup> (CILI) which provides mappings from their generated URIs of concepts to the Princeton WordNet's<sup>[5](#references)</sup> URIs.
 So these concepts can be linked to wordnets of other languages by a relation.
 
 **Example from CILI**:
 
-```rdf
+```turtle
 <i23197>	a	<Concept> ;
 	skos:definition	"make neat, smart, or trim"@en ;
 	dc:source	pwn30:00293977-v .
@@ -33,7 +33,7 @@ So these concepts can be linked to wordnets of other languages by a relation.
 
 `pwn30:00294245-v` corresponds to [this](http://wordnet-rdf.princeton.edu/pwn30/00294245-v) and `pwn30:00293977-v` corresponds to [this](http://wordnet-rdf.princeton.edu/pwn30/00293977-v).
 
-The title of the blog refers to an international auxiliary language<sup>6</sup> (IAL), probably the most widely used.
+The title of the blog refers to an international auxiliary language<sup>[6](#references)</sup> (IAL), probably the most widely used.
 IALs are constructed to be used to facilitate communication between persons of any nationality that have no common native tongues.
 
 ## References

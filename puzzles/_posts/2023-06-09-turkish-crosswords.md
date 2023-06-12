@@ -24,7 +24,7 @@ Crosswords are very popular in Turkey as they are published daily in many newspa
     </div>
 </div>
 <div class="caption">
-    Diagonally symmetric crossword<sup>1</sup>
+    Diagonally symmetric crossword<sup><a href="#references">1</a></sup>
 </div>
 
 - Creativity
@@ -38,7 +38,7 @@ Crosswords are very popular in Turkey as they are published daily in many newspa
     </div>
 </div>
 <div class="caption">
-    A trailing block because there is no 'down' question for it.<sup>2</sup>
+    A trailing block because there is no 'down' question for it.<sup><a href="#references">2</a></sup>
 </div>
 
 <!-- continue with the restrictions -->
