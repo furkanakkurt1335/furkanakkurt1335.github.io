@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://furkanakkurt1335.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://furkanakkurt1335.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-12T16:04:52+00:00</updated><id>https://furkanakkurt1335.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal page.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://furkanakkurt1335.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://furkanakkurt1335.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-12T17:21:41+00:00</updated><id>https://furkanakkurt1335.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal page.
 </subtitle><entry><title type="html">Turkish Crosswords</title><link href="https://furkanakkurt1335.github.io/blog/2023/turkish-crosswords/" rel="alternate" type="text/html" title="Turkish Crosswords" /><published>2023-06-09T00:00:00+00:00</published><updated>2023-06-09T00:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2023/turkish-crosswords</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2023/turkish-crosswords/"><![CDATA[<p>Crosswords look beautiful, if done right. It’s indeed a work of art.</p>
 
 <p>Crosswords are very popular in Turkey as they are published daily in many newspapers. I think we can increase the quality by a few restrictions, included below. These restrictions are from <a href="https://www.nytimes.com/crosswords">The New York Times crossword</a> rules.</p>
@@ -26,7 +26,7 @@
     </div>
 </div>
 <div class="caption">
-    Diagonally symmetric crossword<sup>1</sup>
+    Diagonally symmetric crossword<sup><a href="#references">1</a></sup>
 </div>
 
 <ul>
@@ -45,7 +45,7 @@
     </div>
 </div>
 <div class="caption">
-    A trailing block because there is no 'down' question for it.<sup>2</sup>
+    A trailing block because there is no 'down' question for it.<sup><a href="#references">2</a></sup>
 </div>
 
 <!-- continue with the restrictions -->
@@ -227,29 +227,29 @@ It’s all mathematics<br />
 
 <hr />
 
-<p>The EuroWordNet project<sup>1</sup> aimed to “develop a multilingual database with wordnets in several European languages”.
-It was started in 1996 and its project manager was Piek Vossen<sup>2</sup>.
+<p>The EuroWordNet project<sup><a href="#references">1</a></sup> aimed to “develop a multilingual database with wordnets in several European languages”.
+It was started in 1996 and its project manager was Piek Vossen<sup><a href="#references">2</a></sup>.
 They produced wordnets for many European languages as a part of this project.
 The files were not open to the public and they had Euro rates per synsets.</p>
 
-<p>Continuing with this idea, Mr Vossen founded the Global WordNet Association<sup>3</sup> (GWA).
-GWA has the Collaborative InterLingual Index<sup>4</sup> (CILI) which provides mappings from their generated URIs of concepts to the Princeton WordNet’s<sup>5</sup> URIs.
+<p>Continuing with this idea, Mr Vossen founded the Global WordNet Association<sup><a href="#references">3</a></sup> (GWA).
+GWA has the Collaborative InterLingual Index<sup><a href="#references">4</a></sup> (CILI) which provides mappings from their generated URIs of concepts to the Princeton WordNet’s<sup><a href="#references">5</a></sup> URIs.
 So these concepts can be linked to wordnets of other languages by a relation.</p>
 
 <p><strong>Example from CILI</strong>:</p>
 
-<pre><code class="language-rdf">&lt;i23197&gt;	a	&lt;Concept&gt; ;
-	skos:definition	"make neat, smart, or trim"@en ;
-	dc:source	pwn30:00293977-v .
+<div class="language-turtle highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nl">&lt;i23197&gt;</span><span class="w">	</span><span class="k">a</span><span class="w">	</span><span class="nl">&lt;Concept&gt;</span><span class="w"> </span><span class="p">;</span><span class="w">
+	</span><span class="nn">skos:</span><span class="n">definition	</span><span class="s">"make neat, smart, or trim"</span><span class="na">@en</span><span class="w"> </span><span class="p">;</span><span class="w">
+	</span><span class="nn">dc:source	pwn30:</span><span class="mi">00293977</span><span class="n">-v</span><span class="w"> </span><span class="p">.</span><span class="w">
 
-&lt;i23198&gt;	a	&lt;Concept&gt; ;
-	skos:definition	"produce or yield flowers"@en ;
-	dc:source	pwn30:00294245-v .
-</code></pre>
+</span><span class="nl">&lt;i23198&gt;</span><span class="w">	</span><span class="k">a</span><span class="w">	</span><span class="nl">&lt;Concept&gt;</span><span class="w"> </span><span class="p">;</span><span class="w">
+	</span><span class="nn">skos:</span><span class="n">definition	</span><span class="s">"produce or yield flowers"</span><span class="na">@en</span><span class="w"> </span><span class="p">;</span><span class="w">
+	</span><span class="nn">dc:source	pwn30:</span><span class="mi">00294245</span><span class="n">-v</span><span class="w"> </span><span class="p">.</span><span class="w">
+</span></code></pre></div></div>
 
 <p><code class="language-plaintext highlighter-rouge">pwn30:00294245-v</code> corresponds to <a href="http://wordnet-rdf.princeton.edu/pwn30/00294245-v">this</a> and <code class="language-plaintext highlighter-rouge">pwn30:00293977-v</code> corresponds to <a href="http://wordnet-rdf.princeton.edu/pwn30/00293977-v">this</a>.</p>
 
-<p>The title of the blog refers to an international auxiliary language<sup>6</sup> (IAL), probably the most widely used.
+<p>The title of the blog refers to an international auxiliary language<sup><a href="#references">6</a></sup> (IAL), probably the most widely used.
 IALs are constructed to be used to facilitate communication between persons of any nationality that have no common native tongues.</p>
 
 <h2 id="references">References</h2>
@@ -293,7 +293,7 @@ Ontology in the field of computer science is, as expected, very much related to 
     </div>
 </div>
 <div class="caption">
-    The Tower of Babel by Pieter Bruegel the Elder (1563) <sup>1</sup>
+    The Tower of Babel by Pieter Bruegel the Elder (1563) <sup><a href="#references">1</a></sup>
 </div>
 
 <p><a href="https://en.wikipedia.org/wiki/Tower_of_Babel">The <em>tower of babel</em> narrative</a> tries to explain why humans have languages so diverse.
@@ -303,7 +303,7 @@ Although many philosophers are fond of <em>ontology</em>, it’s sad that much o
 People are very capable of misunderstandings.</p>
 
 <p>In the computer science world, various groups establish their own terminology in their work.
-When outputs of these groups want to be merged, consequently, much work has to be done.<sup>2</sup></p>
+When outputs of these groups want to be merged, consequently, much work has to be done.<sup><a href="#references">2</a></sup></p>
 
 <h2 id="references">References</h2>
 
@@ -496,7 +496,7 @@ Shall be lifted—nevermore!</p>]]></content><author><name></name></author><cate
 I searched for some <em>Ontologist</em> jobs.
 I was pleased to see that the companies look for <em>linguists</em> as well as other technical professions.</p>
 
-<p>While at it, I saw one <em>ontologist</em> argue<sup>1</sup> that ontologists are language engineers: not in the sense of engineering or creating new languages (<a href="https://en.wikipedia.org/wiki/Constructed_language"><em>conlanging</em></a>), but standardizing the language used by a group of people working towards a goal.
+<p>While at it, I saw one <em>ontologist</em> argue<sup><a href="#references">1</a></sup> that ontologists are language engineers: not in the sense of engineering or creating new languages (<a href="https://en.wikipedia.org/wiki/Constructed_language"><em>conlanging</em></a>), but standardizing the language used by a group of people working towards a goal.
 I’m quoting, from his 2016 LinkedIn article:</p>
 
 <blockquote>
@@ -518,7 +518,7 @@ When an ontology is organized well, transferring work mentioned above becomes le
 <h2 id="reference">Reference</h2>
 
 <ol>
-  <li>Why Most Companies Need An Ontologist (or Two) by Kurt Cagle on March 4, 2016 - LinkedIn article](https://www.linkedin.com/pulse/why-most-companies-need-ontologist-two-kurt-cagle)</li>
+  <li><a href="https://www.linkedin.com/pulse/why-most-companies-need-ontologist-two-kurt-cagle">Why Most Companies Need An Ontologist (or Two) by Kurt Cagle on March 4, 2016 - LinkedIn article</a></li>
 </ol>]]></content><author><name></name></author><category term="ssw" /><category term="ontology" /><summary type="html"><![CDATA[Originally posted as part of the CMPE58H course at https://furkanakkurt5204.gitlab.io/personal/ontology/2022/11/15/ontologying.]]></summary></entry><entry><title type="html">Qualifiers among Triples</title><link href="https://furkanakkurt1335.github.io/blog/2022/qualifiers-among-triples/" rel="alternate" type="text/html" title="Qualifiers among Triples" /><published>2022-11-10T10:15:00+00:00</published><updated>2022-11-10T10:15:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2022/qualifiers-among-triples</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2022/qualifiers-among-triples/"><![CDATA[<p>Originally posted as part of the <a href="https://cmpe.boun.edu.tr/courses/cmpe58h">CMPE58H</a> course at <code class="language-plaintext highlighter-rouge">https://furkanakkurt5204.gitlab.io/personal/ontology/2022/11/10/qualifiers-among-triples</code>.</p>
 
 <hr />
