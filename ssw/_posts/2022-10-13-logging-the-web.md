@@ -22,5 +22,5 @@ Now a big part of this _social Web_, social media sites begin after a popular di
 1. Fischetti, M. & Tim, B.-L. (2000). _Weaving the web: The original design and ultimate destiny of the World Wide Web by its inventor._ HarperBusiness.
 2. [define web - Google Search](https://www.google.com/search?q=define+web)
 3. [Social web - Wikipedia](https://en.wikipedia.org/wiki/Social_web)
-4. [web | Etymology, origin and meaning of web by etymonline](https://www.etymonline.com/word/web)
+4. [web \| Etymology, origin and meaning of web by etymonline](https://www.etymonline.com/word/web)
 5. Kaplan, Andreas & Haenlein, Michael. (2010). Users of the World, Unite! The Challenges and Opportunities of Social Media. Business Horizons. 53. 59–68. 10.1016/j.bushor.2009.09.003.
