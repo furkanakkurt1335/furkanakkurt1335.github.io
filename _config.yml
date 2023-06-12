@@ -73,37 +73,37 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: furkanakkurt1335
 gitlab_username: furkanakkurt5204
 twitter_username: furkanakkurt358
-mastodon_username: # home.social/@furkanakkurt1507
+# mastodon_username: home.social/@furkanakkurt1507
 linkedin_username: furkanakkurt9447
 telegram_username: furkanakkurt8279
 scholar_userid: i9gWWMUAAAAJ
 semanticscholar_id: 2174736343
-whatsapp_number: # +905325555555
+# whatsapp_number: +905325555555
 orcid_id: 0000-0002-8411-654X
-medium_username: # furkanakkurt7642
-quora_username: # Furkan-Akkurt-1
-publons_id: 
-lattes_id: 
-osf_id: # k43q6
-research_gate_profile: # Furkan-Akkurt-3
-scopus_id: # 57809009300
-blogger_url: 
-work_url: 
-keybase_username: # furkanakkurt8492
-wikidata_id: # Q115431208
-wikipedia_id: # Furkanakkurt8015
-dblp_url: # https://dblp.org/pid/323/7980.html
+# medium_username: furkanakkurt7642
+# quora_username: Furkan-Akkurt-1
+# publons_id: 
+# lattes_id: 
+# osf_id: k43q6
+# research_gate_profile: Furkan-Akkurt-3
+# scopus_id: 57809009300
+# blogger_url: 
+# work_url: 
+# keybase_username: furkanakkurt8492
+# wikidata_id: Q115431208
+# wikipedia_id: Furkanakkurt8015
+# dblp_url: https://dblp.org/pid/323/7980.html
 stackoverflow_id: 14289095
 kaggle_id: furkanakkurt8350
-lastfm_id: # furkanakkurt865
-spotify_id: # cxf9f9pzmeot1j8e5hs4wg373
-pinterest_id: # furkanakkurt7067
-unsplash_id: # furkanakkurt7969
+# lastfm_id: furkanakkurt865
+# spotify_id: cxf9f9pzmeot1j8e5hs4wg373
+# pinterest_id: furkanakkurt7067
+# unsplash_id: furkanakkurt7969
 instagram_id: furkanakkurt5466
 facebook_id: furkanakkurt5466
 youtube_id: furkanakkurt8601
 discord_id: furkanakkurt1821#8351
-genius_id: # furkanakkurt7735
+# genius_id: furkanakkurt7735
 
 contact_note: >
   Email is preferred.
@@ -381,9 +381,9 @@ bootstrap:
     js: "sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8="
 bootstrap-table:
   version: "1.21.4"
-fontawesome:
-  version: "6.4.0"
-  integrity: "sha256-HtsXJanqjKTc8vVQjO4YMhiqFoXkfBsjBWcX91T1jr8="
+# fontawesome:
+#   version: "6.4.0"
+#   integrity: "sha256-HtsXJanqjKTc8vVQjO4YMhiqFoXkfBsjBWcX91T1jr8="
 jquery:
   version: "3.6.0"
   integrity: "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
