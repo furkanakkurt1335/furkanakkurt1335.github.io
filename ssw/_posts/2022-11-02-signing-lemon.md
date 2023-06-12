@@ -2,7 +2,7 @@
 layout: post
 title: Signing Lemon
 date: 2022-11-02 20:42:50 +0300
-tags: linguistics
+categories: linguistics
 giscus_comments: true
 ---
 

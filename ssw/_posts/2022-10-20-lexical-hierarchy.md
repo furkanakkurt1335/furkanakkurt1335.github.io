@@ -2,7 +2,7 @@
 layout: post
 title: Lexical Hierarchy
 date: 2022-10-20
-tags: linguistics
+categories: linguistics
 giscus_comments: true
 ---
 

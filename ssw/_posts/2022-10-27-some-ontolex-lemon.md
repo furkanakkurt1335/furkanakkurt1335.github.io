@@ -2,7 +2,7 @@
 layout: post
 title: Some OntoLex-Lemon
 date: 2022-10-27
-tags: linguistics
+categories: linguistics
 giscus_comments: true
 ---
 
