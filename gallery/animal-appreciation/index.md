@@ -5,7 +5,20 @@ permalink: /gallery/animal-appreciation/
 ---
 
 - [Crow Appreciation](/gallery/animal-appreciation/crow)
-- [Sheep Appreciation](/gallery/animal-appreciation/sheep)
+
+---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="/gallery/animal-appreciation/videos/baa.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/gallery/animal-appreciation/images/sheep1.png" title="sheep1" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Sheep in a field
+        </div>
+    </div>
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -19,23 +32,41 @@ permalink: /gallery/animal-appreciation/
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="/gallery/animal-appreciation/images/gull.jpg" title="gull" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Gull at Beşiktaş
+        </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="/gallery/animal-appreciation/images/pigeons.jpg" title="pigeons" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Pigeons in front of the library of Boğaziçi University
+        </div>
     </div>
-</div>
-<div class="caption">
-    Gull at Beşiktaş (left), pigeons in front of the library of Boğaziçi University (right)
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="/gallery/animal-appreciation/images/insect.jpg" title="insect" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Insect on the floor
+        </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="/gallery/animal-appreciation/images/butterfly.jpg" title="butterfly" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Green butterfly on the ceiling
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/gallery/animal-appreciation/images/cat1.jpeg" title="cat1" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-7 mt-3 mt-md-0">
+        {% include figure.html path="/gallery/animal-appreciation/images/cat2.jpeg" title="cat2" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    Insect on the floor (left), green butterfly on the ceiling (right)
+    Cats of Boğaziçi University
 </div>
