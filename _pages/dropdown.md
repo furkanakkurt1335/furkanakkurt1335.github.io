@@ -5,9 +5,6 @@ nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: diary
-      permalink: /diary/
-    - title: divider
     - title: gallery
       permalink: /gallery/
     - title: divider
