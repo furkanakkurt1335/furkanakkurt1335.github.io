@@ -54,3 +54,15 @@ nav_order: 6
         {% include figure.html path="/assets/img/gallery/ali-box.png" title="ali-box" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/assets/img/gallery/cc1.jpeg" title="cc1" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/assets/img/gallery/cc2.jpeg" title="cc2" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Colombia Coffee at Umraniye
+</div>
