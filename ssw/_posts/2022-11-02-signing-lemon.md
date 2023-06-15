@@ -18,7 +18,7 @@ Still, _sign language_ represented quite a challenge for them, as it's quite con
 
 ## Excerpt from the ontology
 
-```rdf
+```turtle
 sldc:BackAndForth
   rdf:type sldc:PathMovement ;
   dc:source "https://asl-lex.org/" ;
