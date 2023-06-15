@@ -14,7 +14,7 @@ permalink: /movies/
     </div>
 </div>
 <div class="caption">
-    Girl from [Pachinko](https://tv.apple.com/us/show/pachinko/umc.cmc.17vf6g68dy89kk1l1nnb6min4)
+    Girl from <a href="https://tv.apple.com/us/show/pachinko/umc.cmc.17vf6g68dy89kk1l1nnb6min4">Pachinko</a>
 </div>
 
 ## 2021

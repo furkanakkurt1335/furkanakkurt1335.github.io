@@ -70,3 +70,12 @@ permalink: /gallery/animal-appreciation/
 <div class="caption">
     Cats of Boğaziçi University
 </div>
+
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="/gallery/animal-appreciation/images/birds-salt.jpeg" title="birds-salt" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Birds at SALT Galata
+        </div>
+    </div>
+</div>
