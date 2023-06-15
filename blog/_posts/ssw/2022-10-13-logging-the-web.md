@@ -2,6 +2,7 @@
 layout: post
 title: Logging the Web
 date: 2022-10-13
+tags: ssw
 giscus_comments: true
 ---
 

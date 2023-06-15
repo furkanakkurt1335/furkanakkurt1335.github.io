@@ -2,7 +2,7 @@
 layout: post
 title: Raventology
 date: 2022-12-08 12:56:32 +0300
-tags: ontology
+tags: ontology ssw
 giscus_comments: true
 ---
 

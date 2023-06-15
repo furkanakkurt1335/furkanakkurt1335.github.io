@@ -2,7 +2,7 @@
 layout: post
 title: Predication
 date: 2022-11-24 13:20:43 +0300
-tags: ontology
+tags: ontology ssw
 giscus_comments: true
 ---
 

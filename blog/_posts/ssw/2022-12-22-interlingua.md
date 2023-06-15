@@ -2,7 +2,7 @@
 layout: post
 title: Interlingua
 date: 2022-12-22 00:49:14 +0300
-tags: ontology
+tags: ontology ssw
 giscus_comments: true
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: Semantic Web Usage
 date: 2022-10-06
+tags: ssw
 giscus_comments: true
 ---
 
