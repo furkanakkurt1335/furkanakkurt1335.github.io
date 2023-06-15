@@ -2,6 +2,7 @@
 layout: post
 title: Turkish Crosswords
 date: 2023-06-09
+tags: puzzles
 giscus_comments: true
 ---
 
