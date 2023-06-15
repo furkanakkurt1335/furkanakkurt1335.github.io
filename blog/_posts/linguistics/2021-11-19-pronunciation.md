@@ -2,7 +2,7 @@
 layout: post
 title: A Case For Pronunciation Over Spelling, Or Multitude Of Alphabets
 date: 2021-11-19
-tags: pronunciation
+tags: pronunciation linguistics
 giscus_comments: true
 ---
 
