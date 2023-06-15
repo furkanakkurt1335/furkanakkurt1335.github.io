@@ -10,6 +10,5 @@ nav_order: 6
 - [gallery](/gallery/)
 - [lyrics](/lyrics/)
 - [meta](/meta/)
-- [puzzles](/puzzles/)
 - [quotes](/quotes/)
 - [thoughts](/thoughts/)
