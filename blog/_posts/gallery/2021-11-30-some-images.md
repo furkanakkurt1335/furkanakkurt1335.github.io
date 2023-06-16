@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Dump 1
-date: 2019-01-01
+title: Some images
+date: 2021-11-30
 tags: gallery
 giscus_comments: true
 ---
+
+Some images over the years.
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -35,6 +37,8 @@ giscus_comments: true
         {% include figure.html path="/assets/img/gallery/school.jpg" title="school" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+This one I just like, both figures.
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
