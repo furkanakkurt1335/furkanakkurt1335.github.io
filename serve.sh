@@ -1,1 +1,1 @@
-bundle exec jekyll serve --lsi
+bundle exec jekyll serve
