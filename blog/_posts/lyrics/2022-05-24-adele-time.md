@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Patient Time
+description: Jewel from Adele
 date: 2022-05-24
 tags: lyrics
 giscus_comments: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Renardeau
+description: A fox from Normandy, France
 date: 2022-03-31
 tags: gallery animal-appreciation
 giscus_comments: true

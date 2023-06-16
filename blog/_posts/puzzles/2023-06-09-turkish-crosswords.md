@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Turkish Crosswords
+description: Proposal for better crosswords in Turkey
 date: 2023-06-09
 tags: puzzles
 giscus_comments: true
