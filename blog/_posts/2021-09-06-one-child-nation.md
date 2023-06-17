@@ -13,7 +13,7 @@ Started watching this documentary on Amazon Prime called "One Child Nation" (201
         <div class="caption">
             A rural villager lady talking about the policy back then, and smiling too.
         </div>
-        {% include figure.html path="/assets/img/blog/movies/villager-sterilization.png" title="villager-sterilization" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="/assets/img/villager-sterilization.png" title="villager-sterilization" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -23,7 +23,7 @@ Okay, just finished it. No words. I'll leave a picture here:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/blog/movies/writing-wall.jpg" title="writing-wall" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="/assets/img/writing-wall.jpg" title="writing-wall" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 

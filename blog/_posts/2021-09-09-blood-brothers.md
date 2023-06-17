@@ -13,7 +13,7 @@ Watching the documentary 'Blood Brothers' on Malcolm X and Muhammad Ali, Netflix
         <div class="caption">
             What kind of language is that, "boy"?
         </div>
-        {% include figure.html path="/assets/img/blog/movies/ali-lawyer.png" title="ali-lawyer" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="/assets/img/ali-lawyer.png" title="ali-lawyer" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 

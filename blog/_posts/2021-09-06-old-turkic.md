@@ -16,6 +16,6 @@ harmony since at least 800 AD.
             I guess one'd write my name like this, right? (Old Turkic Script)  
             No h and f, I guess.
         </div>
-        {% include figure.html path="/assets/img/blog/linguistics/name-old-turkic.png" title="name-old-turkic" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="/assets/img/name-old-turkic.png" title="name-old-turkic" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>

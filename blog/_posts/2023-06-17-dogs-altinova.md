@@ -8,16 +8,16 @@ giscus_comments: true
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/gallery/animal-appreciation/altinova-dog1.jpeg" title="altinova-dog1" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="/assets/img/altinova-dog1.jpeg" title="altinova-dog1" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/gallery/animal-appreciation/altinova-dog2.jpeg" title="altinova-dog2" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="/assets/img/altinova-dog2.jpeg" title="altinova-dog2" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/gallery/animal-appreciation/altinova-dog3.jpeg" title="altinova-dog3" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="/assets/img/altinova-dog3.jpeg" title="altinova-dog3" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">
             Stretching.
         </div>
@@ -28,7 +28,7 @@ And one horse.
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/gallery/animal-appreciation/altinova-horse.jpeg" title="altinova-horse" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="/assets/img/altinova-horse.jpeg" title="altinova-horse" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 

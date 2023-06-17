@@ -2,7 +2,7 @@
 layout: page
 title: BoAT
 description: a collaborative annotation tool
-img: assets/img/boat/logo.png
+img: assets/img/boat-logo.png
 importance: 1
 category: tabilab
 ---
@@ -15,7 +15,7 @@ I have presented [a paper](https://ceur-ws.org/Vol-3315/paper01.pdf) on BoAT at 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/boat/annotation.png" title="annotation interface" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/boat-annotation.png" title="annotation interface" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -24,7 +24,7 @@ I have presented [a paper](https://ceur-ws.org/Vol-3315/paper01.pdf) on BoAT at 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/boat/search.png" title="search interface" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/boat-search.png" title="search interface" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

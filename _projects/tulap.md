@@ -2,7 +2,7 @@
 layout: page
 title: TULAP
 description: a research output platform
-img: assets/img/tulap/logo.png
+img: assets/img/tulap-logo.png
 importance: 1
 category: tabilab
 ---
@@ -17,7 +17,7 @@ I have been part of the project since Feb 2022. I have presented [our demonstrat
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/tulap/ner-search.png" title="named entity search" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/tulap-ner-search.png" title="named entity search" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -26,7 +26,7 @@ I have been part of the project since Feb 2022. I have presented [our demonstrat
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/tulap/ner-demo.png" title="ner demo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/tulap-ner-demo.png" title="ner demo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -35,7 +35,7 @@ I have been part of the project since Feb 2022. I have presented [our demonstrat
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/tulap/ner-shell.png" title="ner local" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/tulap-ner-shell.png" title="ner local" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

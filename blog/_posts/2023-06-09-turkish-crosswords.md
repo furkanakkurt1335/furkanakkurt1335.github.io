@@ -22,7 +22,7 @@ Crosswords are very popular in Turkey as they are published daily in many newspa
 
 <div class="row justify-content-center">
     <div class="col-md-6">
-        <img src="/assets/img/blog/puzzles/symmetric.png" title="symmetric" class="img-fluid rounded z-depth-1">
+        <img src="/assets/img/symmetric.png" title="symmetric" class="img-fluid rounded z-depth-1">
     </div>
 </div>
 <div class="caption">
@@ -36,7 +36,7 @@ Crosswords are very popular in Turkey as they are published daily in many newspa
 
 <div class="row justify-content-center">
     <div class="col-md-6">
-        <img src="/assets/img/blog/puzzles/trailing.jpg" title="trailing" class="img-fluid rounded z-depth-1">
+        <img src="/assets/img/trailing.jpg" title="trailing" class="img-fluid rounded z-depth-1">
     </div>
 </div>
 <div class="caption">
