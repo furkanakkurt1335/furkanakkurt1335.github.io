@@ -17,6 +17,6 @@ Waiting to just cop *The Fall-Off* so he'll explain.<sup>[1](https://genius.com/
     </div>
 </div>
 
-Taken as a tribute to one of the greatest.
+Taken as a tribute to one of the greatest. :crown:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZeKuGrD2fl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
