@@ -1,0 +1,20 @@
+---
+layout: post
+title: Forest Hills of Altinova
+date: 2023-06-17 16:00
+tags: gallery rap
+giscus_comments: true
+---
+
+Waiting to just cop *The Fall-Off* so he'll explain.<sup>[1](https://genius.com/27937507)</sup>
+
+<div class="row">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.html path="/assets/img/gallery/fh-altinova.jpeg" title="fh-altinova" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="/assets/img/gallery/fhd-cover.jpg" title="fhd-cover" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+Taken as a tribute to one of the greatest.
