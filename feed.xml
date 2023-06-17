@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://furkanakkurt1335.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://furkanakkurt1335.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-17T17:29:27+00:00</updated><id>https://furkanakkurt1335.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal page.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://furkanakkurt1335.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://furkanakkurt1335.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-17T17:38:27+00:00</updated><id>https://furkanakkurt1335.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal page.
 </subtitle><entry><title type="html">Forest Hills of Altinova</title><link href="https://furkanakkurt1335.github.io/blog/2023/forest-hills/" rel="alternate" type="text/html" title="Forest Hills of Altinova" /><published>2023-06-17T16:00:00+00:00</published><updated>2023-06-17T16:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2023/forest-hills</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2023/forest-hills/"><![CDATA[<p>Waiting to just cop <em>The Fall-Off</em> so he’ll explain.<sup><a href="https://genius.com/27937507">1</a></sup></p>
 
 <div class="row">
@@ -198,13 +198,13 @@
 
   <picture>
     
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/gallery/animal-appreciation/insect-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/gallery/animal-appreciation/insect-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/gallery/animal-appreciation/insect-1400.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/insect1-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/insect1-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/insect1-1400.webp" />
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/gallery/animal-appreciation/insect.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="insect" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/assets/img/insect1.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="insect" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
 
@@ -301,29 +301,7 @@
             Gull at Bebek Sahili
         </div>
     </div>
-</div>]]></content><author><name></name></author><category term="blog" /><category term="gallery" /><category term="animal-appreciation" /><summary type="html"><![CDATA[Insect on the floor Pigeons in front of the library of Boğaziçi University]]></summary></entry><entry><title type="html">Leafly</title><link href="https://furkanakkurt1335.github.io/blog/2023/leafly/" rel="alternate" type="text/html" title="Leafly" /><published>2023-06-11T00:00:00+00:00</published><updated>2023-06-11T00:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2023/leafly</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2023/leafly/"><![CDATA[<div class="row">
-    <div class="col-sm-7 mt-3 mt-md-0">
-        <figure>
-
-  <picture>
-    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/gallery/animal-appreciation/butterfly-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/gallery/animal-appreciation/butterfly-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/gallery/animal-appreciation/butterfly-1400.webp" />
-    
-
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/gallery/animal-appreciation/butterfly.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="butterfly" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
-
-  </picture>
-
-</figure>
-
-        <div class="caption">
-            Green butterfly on the ceiling, in Yalova
-        </div>
-    </div>
-</div>]]></content><author><name></name></author><category term="blog" /><category term="gallery" /><category term="animal-appreciation" /><summary type="html"><![CDATA[Green butterfly on the ceiling, in Yalova]]></summary></entry><entry><title type="html">KenKen</title><link href="https://furkanakkurt1335.github.io/blog/2023/kenken/" rel="alternate" type="text/html" title="KenKen" /><published>2023-06-11T00:00:00+00:00</published><updated>2023-06-11T00:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2023/kenken</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2023/kenken/"><![CDATA[<h2 id="instructions">Instructions</h2>
+</div>]]></content><author><name></name></author><category term="blog" /><category term="gallery" /><category term="animal-appreciation" /><summary type="html"><![CDATA[Insect on the floor Pigeons in front of the library of Boğaziçi University]]></summary></entry><entry><title type="html">KenKen</title><link href="https://furkanakkurt1335.github.io/blog/2023/kenken/" rel="alternate" type="text/html" title="KenKen" /><published>2023-06-11T00:00:00+00:00</published><updated>2023-06-11T00:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2023/kenken</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2023/kenken/"><![CDATA[<h2 id="instructions">Instructions</h2>
 
 <ul>
   <li>Fill the cells with numbers \(1\) through \(N\) in a grid of size \(N\times N\).</li>
@@ -366,7 +344,29 @@
 
 <ul>
   <li>Reference: <a href="kenkenpuzzle.com">kenkenpuzzle.com</a></li>
-</ul>]]></content><author><name></name></author><category term="blog" /><category term="puzzles" /><summary type="html"><![CDATA[How to play it]]></summary></entry><entry><title type="html">Turkish Crosswords</title><link href="https://furkanakkurt1335.github.io/blog/2023/turkish-crosswords/" rel="alternate" type="text/html" title="Turkish Crosswords" /><published>2023-06-09T00:00:00+00:00</published><updated>2023-06-09T00:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2023/turkish-crosswords</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2023/turkish-crosswords/"><![CDATA[<p>Crosswords look beautiful, if done right. It’s indeed a work of art.</p>
+</ul>]]></content><author><name></name></author><category term="blog" /><category term="puzzles" /><summary type="html"><![CDATA[How to play it]]></summary></entry><entry><title type="html">Leafly</title><link href="https://furkanakkurt1335.github.io/blog/2023/leafly/" rel="alternate" type="text/html" title="Leafly" /><published>2023-06-11T00:00:00+00:00</published><updated>2023-06-11T00:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2023/leafly</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2023/leafly/"><![CDATA[<div class="row">
+    <div class="col-sm-7 mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/gallery/animal-appreciation/butterfly-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/gallery/animal-appreciation/butterfly-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/gallery/animal-appreciation/butterfly-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/gallery/animal-appreciation/butterfly.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="butterfly" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="caption">
+            Green butterfly on the ceiling, in Yalova
+        </div>
+    </div>
+</div>]]></content><author><name></name></author><category term="blog" /><category term="gallery" /><category term="animal-appreciation" /><summary type="html"><![CDATA[Green butterfly on the ceiling, in Yalova]]></summary></entry><entry><title type="html">Turkish Crosswords</title><link href="https://furkanakkurt1335.github.io/blog/2023/turkish-crosswords/" rel="alternate" type="text/html" title="Turkish Crosswords" /><published>2023-06-09T00:00:00+00:00</published><updated>2023-06-09T00:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2023/turkish-crosswords</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2023/turkish-crosswords/"><![CDATA[<p>Crosswords look beautiful, if done right. It’s indeed a work of art.</p>
 
 <p>Crosswords are very popular in Turkey as they are published daily in many newspapers. I think we can increase the quality by a few restrictions, included below. These restrictions are from <a href="https://www.nytimes.com/crosswords">The New York Times crossword</a> rules.</p>
 
