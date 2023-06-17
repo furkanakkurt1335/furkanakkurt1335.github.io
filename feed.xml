@@ -1,5 +1,91 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://furkanakkurt1335.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://furkanakkurt1335.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-16T19:42:24+00:00</updated><id>https://furkanakkurt1335.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal page.
-</subtitle><entry><title type="html">Birds and Coffee</title><link href="https://furkanakkurt1335.github.io/blog/2023/salt-coffee/" rel="alternate" type="text/html" title="Birds and Coffee" /><published>2023-06-15T00:00:00+00:00</published><updated>2023-06-15T00:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2023/salt-coffee</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2023/salt-coffee/"><![CDATA[<div class="row">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://furkanakkurt1335.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://furkanakkurt1335.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-17T10:00:02+00:00</updated><id>https://furkanakkurt1335.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal page.
+</subtitle><entry><title type="html">Dogs of Altinova</title><link href="https://furkanakkurt1335.github.io/blog/2023/dogs-altinova/" rel="alternate" type="text/html" title="Dogs of Altinova" /><published>2023-06-17T00:00:00+00:00</published><updated>2023-06-17T00:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2023/dogs-altinova</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2023/dogs-altinova/"><![CDATA[<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/gallery/animal-appreciation/altinova-dog1-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/gallery/animal-appreciation/altinova-dog1-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/gallery/animal-appreciation/altinova-dog1-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/gallery/animal-appreciation/altinova-dog1.jpeg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="altinova-dog1" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/gallery/animal-appreciation/altinova-dog2-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/gallery/animal-appreciation/altinova-dog2-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/gallery/animal-appreciation/altinova-dog2-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/gallery/animal-appreciation/altinova-dog2.jpeg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="altinova-dog2" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/gallery/animal-appreciation/altinova-dog3-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/gallery/animal-appreciation/altinova-dog3-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/gallery/animal-appreciation/altinova-dog3-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/gallery/animal-appreciation/altinova-dog3.jpeg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="altinova-dog3" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="caption">
+            Stretching.
+        </div>
+    </div>
+</div>
+
+<p>And one horse.</p>
+
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/gallery/animal-appreciation/altinova-horse-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/gallery/animal-appreciation/altinova-horse-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/gallery/animal-appreciation/altinova-horse-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/gallery/animal-appreciation/altinova-horse.jpeg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="altinova-horse" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<p>Images are taken near 40,58597° N, 29,46643° E.</p>]]></content><author><name></name></author><category term="blog" /><category term="gallery" /><category term="animal-appreciation" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Birds and Coffee</title><link href="https://furkanakkurt1335.github.io/blog/2023/salt-coffee/" rel="alternate" type="text/html" title="Birds and Coffee" /><published>2023-06-15T00:00:00+00:00</published><updated>2023-06-15T00:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2023/salt-coffee</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2023/salt-coffee/"><![CDATA[<div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
         <figure>
 
@@ -501,53 +587,4 @@ IALs are constructed to be used to facilitate communication between persons of a
   <li><a href="https://github.com/globalwordnet/cili">Collaborative InterLingual Index</a></li>
   <li><a href="https://wordnet.princeton.edu">Princeton WordNet</a></li>
   <li><a href="https://en.wikipedia.org/wiki/International_auxiliary_language">International auxiliary language</a></li>
-</ol>]]></content><author><name></name></author><category term="blog" /><category term="ontology" /><category term="ssw" /><summary type="html"><![CDATA[Originally posted as part of the CMPE58H course at https://furkanakkurt5204.gitlab.io/personal/ontology/2022/12/21/interlingua.]]></summary></entry><entry><title type="html">Onto-</title><link href="https://furkanakkurt1335.github.io/blog/2022/onto/" rel="alternate" type="text/html" title="Onto-" /><published>2022-12-15T10:09:20+00:00</published><updated>2022-12-15T10:09:20+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2022/onto-</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2022/onto/"><![CDATA[<p>Originally posted as part of the <a href="https://cmpe.boun.edu.tr/courses/cmpe58h">CMPE58H</a> course at <code class="language-plaintext highlighter-rouge">https://furkanakkurt5204.gitlab.io/personal/ontology/2022/12/15/onto</code>.</p>
-
-<hr />
-
-<p>Ontology is the study of the essence of things.
-Onto- is etymologically related to <em>essence</em> (<em>essere</em>: to be in Italian).
-<em>Onto</em> and <em>logy</em> together is the discourse of existence.
-Ontology in the field of computer science is, as expected, very much related to its philosophical usage.</p>
-
-<h2 id="tower-of-babel">Tower of Babel</h2>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0 text-center">
-        <figure>
-
-  <picture>
-    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/blog/ssw/tower-babel-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/blog/ssw/tower-babel-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/blog/ssw/tower-babel-1400.webp" />
-    
-
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/blog/ssw/tower-babel.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="The Tower of Babel by Pieter Bruegel the Elder (1563)" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
-
-  </picture>
-
-</figure>
-
-    </div>
-</div>
-<div class="caption">
-    The Tower of Babel by Pieter Bruegel the Elder (1563) <sup><a href="#references">1</a></sup>
-</div>
-
-<p><a href="https://en.wikipedia.org/wiki/Tower_of_Babel">The <em>tower of babel</em> narrative</a> tries to explain why humans have languages so diverse.
-In the narrative, a human race with a single language gets scattered around the world and their language confused.
-Ontologies are attempts at reducing this diversification and unifying representations so that people unify over the understanding of a thing as much as possible.
-Although many philosophers are fond of <em>ontology</em>, it’s sad that much of the disagreements between them appear to come from understanding different things from the same phrases.
-People are very capable of misunderstandings.</p>
-
-<p>In the computer science world, various groups establish their own terminology in their work.
-When outputs of these groups want to be merged, consequently, much work has to be done.<sup><a href="#references">2</a></sup></p>
-
-<h2 id="references">References</h2>
-
-<ol>
-  <li><a href="https://upload.wikimedia.org/wikipedia/commons/5/50/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project.jpg">Pieter Brueghel the Elder, Public domain, via Wikimedia Commons</a></li>
-  <li><a href="http://ontology.buffalo.edu/smith/articles/ontologies.htm">Ontology: Philosophical and Computational</a></li>
-</ol>]]></content><author><name></name></author><category term="blog" /><category term="ontology" /><category term="ssw" /><summary type="html"><![CDATA[Originally posted as part of the CMPE58H course at https://furkanakkurt5204.gitlab.io/personal/ontology/2022/12/15/onto.]]></summary></entry></feed>
+</ol>]]></content><author><name></name></author><category term="blog" /><category term="ontology" /><category term="ssw" /><summary type="html"><![CDATA[Originally posted as part of the CMPE58H course at https://furkanakkurt5204.gitlab.io/personal/ontology/2022/12/21/interlingua.]]></summary></entry></feed>
