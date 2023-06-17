@@ -8,7 +8,7 @@ giscus_comments: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/gallery/animal-appreciation/insect.jpg" title="insect" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="/assets/img/insect1.jpg" title="insect" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">
             Insect on the floor
         </div>
