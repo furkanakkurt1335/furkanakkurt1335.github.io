@@ -25,6 +25,15 @@ On the way, seen some flowers.
     </div>
 </div>
 
+<div class="row">
+    <div class="caption">
+        Recorded the ambient sound on the way.
+    </div>
+    <div class="col">
+        {% include audio.html path="/assets/audio/2023-06-18-sheep.m4a" controls=true %}
+    </div>
+</div>
+
 Seen their shepherd.
 
 <div class="row">
