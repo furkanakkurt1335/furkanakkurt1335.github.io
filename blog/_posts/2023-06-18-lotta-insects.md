@@ -56,4 +56,7 @@ giscus_comments: true
     <div class="col-6">
         {% include figure.html path="assets/img/2023-06-18-insect11.jpeg" title="Insect 11" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+    <div class="col-6">
+        {% include figure.html path="assets/img/2023-06-18-insect12.jpeg" title="Insect 12" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
 </div>
