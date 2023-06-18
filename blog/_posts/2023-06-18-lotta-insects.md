@@ -66,6 +66,12 @@ giscus_comments: true
         {% include figure.html path="assets/img/2023-06-18-insect13.jpeg" title="Insect 13" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-6">
-        {% include figure.html path="assets/img/2023-06-18-insect14.gif" title="Insect 14" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/2023-06-18-insect14.jpeg" title="Insect 14" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col">
+        {% include figure.html path="assets/img/2023-06-18-insect15.gif" title="Insect 15" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
