@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://furkanakkurt1335.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://furkanakkurt1335.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-18T15:34:45+00:00</updated><id>https://furkanakkurt1335.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal page.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://furkanakkurt1335.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://furkanakkurt1335.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-18T16:01:25+00:00</updated><id>https://furkanakkurt1335.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal page.
 </subtitle><entry><title type="html">Lotta Insects</title><link href="https://furkanakkurt1335.github.io/blog/2023/lotta-insects/" rel="alternate" type="text/html" title="Lotta Insects" /><published>2023-06-18T11:00:00+00:00</published><updated>2023-06-18T11:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2023/lotta-insects</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2023/lotta-insects/"><![CDATA[<div class="row">
     <div class="col-5">
         <figure>
@@ -257,13 +257,34 @@
 
   <picture>
     
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/2023-06-18-insect14.gif-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/2023-06-18-insect14.gif-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/2023-06-18-insect14.gif-1400.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/2023-06-18-insect14-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/2023-06-18-insect14-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/2023-06-18-insect14-1400.webp" />
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/2023-06-18-insect14.gif" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="Insect 14" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/assets/img/2023-06-18-insect14.jpeg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="Insect 14" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<div class="row">
+    <div class="col">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/2023-06-18-insect15.gif-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/2023-06-18-insect15.gif-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/2023-06-18-insect15.gif-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/2023-06-18-insect15.gif" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="Insect 15" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
 
