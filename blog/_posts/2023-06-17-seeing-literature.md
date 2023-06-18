@@ -20,7 +20,7 @@ Al-Mutanabbi (المتنبّي) is an **in**credible poet from the 10th century.
 Rap is poetry over some beats. It tends to be filled with self-regard, to say the least.
 
 <!-- Dec. 9, 2014 -->
-J. Cole raps in his song 'January 28th' (Dec 2014) with a similar sentiment to his long gone predecessor:
+J. Cole raps in his song 'January 28th' (Dec 2014) with a similar sentiment to his long gone predecessor<sup>[2](https://genius.com/J-cole-january-28th-lyrics)</sup>:
 
 > Can paint a picture that is vivid enough to cure blindness
 
