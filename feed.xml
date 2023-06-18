@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://furkanakkurt1335.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://furkanakkurt1335.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-18T16:21:24+00:00</updated><id>https://furkanakkurt1335.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal page.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://furkanakkurt1335.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://furkanakkurt1335.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-18T16:25:25+00:00</updated><id>https://furkanakkurt1335.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal page.
 </subtitle><entry><title type="html">Kurdish Shepherd</title><link href="https://furkanakkurt1335.github.io/blog/2023/kurdish-shepherd/" rel="alternate" type="text/html" title="Kurdish Shepherd" /><published>2023-06-18T15:00:00+00:00</published><updated>2023-06-18T15:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2023/kurdish-shepherd</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2023/kurdish-shepherd/"><![CDATA[<p>Seeing a flock of sheep from afar, I wanted to get closer.</p>
 
 <div class="row">
@@ -57,6 +57,20 @@
     <img src="/assets/img/2023-06-18-flower2.jpeg" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="Flower 2" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<div class="row">
+    <div class="caption">
+        Recorded the ambient sound on the way.
+    </div>
+    <div class="col">
+        <figure>
+
+  <audio src="/assets/audio/2023-06-18-sheep.m4a" controls="" />
 
 </figure>
 
