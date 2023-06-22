@@ -18,16 +18,16 @@ giscus_comments: true
 
 <div class="row">
     <div class="col-6">
-        {% include figure.html path="assets/img/2023-06-18-insect3.gif" title="Getting ready" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include video.html path="assets/video/2023-06-18-insect3.mp4" class="img-fluid rounded z-depth-1" controls=true playsinline=true autoplay=true muted=true loop=true %}
     </div>
     <div class="col-6">
-        {% include figure.html path="assets/img/2023-06-18-insect4.gif" title="Going up" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include video.html path="assets/video/2023-06-18-insect4.mp4" class="img-fluid rounded z-depth-1" controls=true playsinline=true autoplay=true muted=true loop=true %}
     </div>
 </div>
 
 <div class="row">
     <div class="col-6">
-        {% include figure.html path="assets/img/2023-06-18-insect5.gif" title="Not staying" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include video.html path="assets/video/2023-06-18-insect5.mp4" class="img-fluid rounded z-depth-1" controls=true playsinline=true autoplay=true muted=true loop=true %}
     </div>
     <div class="col-6">
         {% include figure.html path="assets/img/2023-06-18-insect6.jpeg" title="Insect 6" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -72,6 +72,6 @@ giscus_comments: true
 
 <div class="row">
     <div class="col">
-        {% include figure.html path="assets/img/2023-06-18-insect15.gif" title="Insect 15" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include video.html path="assets/video/2023-06-18-insect15.mp4" class="img-fluid rounded z-depth-1" controls=true playsinline=true autoplay=true muted=true loop=true %}
     </div>
 </div>
