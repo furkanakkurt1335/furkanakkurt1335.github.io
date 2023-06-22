@@ -1,5 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://furkanakkurt1335.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://furkanakkurt1335.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-22T11:15:38+00:00</updated><id>https://furkanakkurt1335.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal page.
-</subtitle><entry><title type="html">Kurdish Shepherd</title><link href="https://furkanakkurt1335.github.io/blog/2023/kurdish-shepherd/" rel="alternate" type="text/html" title="Kurdish Shepherd" /><published>2023-06-18T15:00:00+00:00</published><updated>2023-06-18T15:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2023/kurdish-shepherd</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2023/kurdish-shepherd/"><![CDATA[<p>Seeing a flock of sheep from afar, I wanted to get closer.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://furkanakkurt1335.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://furkanakkurt1335.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-22T14:58:51+00:00</updated><id>https://furkanakkurt1335.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal page.
+</subtitle><entry><title type="html">Ant Colony</title><link href="https://furkanakkurt1335.github.io/blog/2023/ant-colony/" rel="alternate" type="text/html" title="Ant Colony" /><published>2023-06-22T13:00:00+00:00</published><updated>2023-06-22T13:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2023/ant-colony</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2023/ant-colony/"><![CDATA[<div class="row">
+    <div class="col-8">
+        
+
+<figure>
+
+  
+
+  <video src="/assets/video/2023-06-22-ants.mp4" class="img-fluid rounded z-depth-1" width="auto" height="auto" autoplay="" controls="" loop="" muted="" />
+
+  
+
+</figure>
+
+    </div>
+</div>
+
+<p>A small group.</p>
+
+<div class="row">
+    <div class="col-6">
+        
+
+<figure>
+
+  
+
+  <video src="/assets/video/2023-06-20-ants.mp4" class="img-fluid rounded z-depth-1" width="auto" height="auto" autoplay="" controls="" loop="" muted="" />
+
+  
+
+</figure>
+
+    </div>
+</div>
+
+<!-- playsinline autoplay muted loop -->]]></content><author><name></name></author><category term="blog" /><category term="gallery" /><category term="animal-appreciation" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Kurdish Shepherd</title><link href="https://furkanakkurt1335.github.io/blog/2023/kurdish-shepherd/" rel="alternate" type="text/html" title="Kurdish Shepherd" /><published>2023-06-18T15:00:00+00:00</published><updated>2023-06-18T15:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2023/kurdish-shepherd</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2023/kurdish-shepherd/"><![CDATA[<p>Seeing a flock of sheep from afar, I wanted to get closer.</p>
 
 <div class="row">
     <div class="col">
@@ -201,37 +237,29 @@
 
 <div class="row">
     <div class="col-6">
-        <figure>
+        
 
-  <picture>
-    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/2023-06-18-insect3.gif-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/2023-06-18-insect3.gif-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/2023-06-18-insect3.gif-1400.webp" />
-    
+<figure>
 
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/2023-06-18-insect3.gif" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="Getting ready" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  
 
-  </picture>
+  <video src="/assets/video/2023-06-18-insect3.mp4" class="img-fluid rounded z-depth-1" width="auto" height="auto" autoplay="" controls="" loop="" muted="" />
+
+  
 
 </figure>
 
     </div>
     <div class="col-6">
-        <figure>
+        
 
-  <picture>
-    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/2023-06-18-insect4.gif-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/2023-06-18-insect4.gif-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/2023-06-18-insect4.gif-1400.webp" />
-    
+<figure>
 
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/2023-06-18-insect4.gif" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="Going up" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  
 
-  </picture>
+  <video src="/assets/video/2023-06-18-insect4.mp4" class="img-fluid rounded z-depth-1" width="auto" height="auto" autoplay="" controls="" loop="" muted="" />
+
+  
 
 </figure>
 
@@ -240,19 +268,15 @@
 
 <div class="row">
     <div class="col-6">
-        <figure>
+        
 
-  <picture>
-    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/2023-06-18-insect5.gif-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/2023-06-18-insect5.gif-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/2023-06-18-insect5.gif-1400.webp" />
-    
+<figure>
 
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/2023-06-18-insect5.gif" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="Not staying" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  
 
-  </picture>
+  <video src="/assets/video/2023-06-18-insect5.mp4" class="img-fluid rounded z-depth-1" width="auto" height="auto" autoplay="" controls="" loop="" muted="" />
+
+  
 
 </figure>
 
@@ -435,19 +459,15 @@
 
 <div class="row">
     <div class="col">
-        <figure>
+        
 
-  <picture>
-    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/2023-06-18-insect15.gif-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/2023-06-18-insect15.gif-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/2023-06-18-insect15.gif-1400.webp" />
-    
+<figure>
 
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/2023-06-18-insect15.gif" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="Insect 15" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  
 
-  </picture>
+  <video src="/assets/video/2023-06-18-insect15.mp4" class="img-fluid rounded z-depth-1" width="auto" height="auto" autoplay="" controls="" loop="" muted="" />
+
+  
 
 </figure>
 
@@ -893,47 +913,4 @@ Slaughter people too, your murder’s just a bit slower</p>
             Gull at Bebek Sahili
         </div>
     </div>
-</div>]]></content><author><name></name></author><category term="blog" /><category term="gallery" /><category term="animal-appreciation" /><summary type="html"><![CDATA[Insect on the floor Pigeons in front of the library of Boğaziçi University]]></summary></entry><entry><title type="html">KenKen</title><link href="https://furkanakkurt1335.github.io/blog/2023/kenken/" rel="alternate" type="text/html" title="KenKen" /><published>2023-06-11T00:00:00+00:00</published><updated>2023-06-11T00:00:00+00:00</updated><id>https://furkanakkurt1335.github.io/blog/2023/kenken</id><content type="html" xml:base="https://furkanakkurt1335.github.io/blog/2023/kenken/"><![CDATA[<h2 id="instructions">Instructions</h2>
-
-<ul>
-  <li>Fill the cells with numbers \(1\) through \(N\) in a grid of size \(N\times N\).</li>
-  <li>No number repeated in a row or column.</li>
-  <li><strong>Bold</strong> irregularly-shaped boxes represent blocks.</li>
-  <li>Number and operation on a block’s top-left corner <em>represents</em> the entire block.</li>
-  <li>4 operations
-    <ul>
-      <li>\(+\) : Numbers of the block should add up to the representative number.</li>
-      <li>\(-\) : Absolute difference of two numbers in the block should equal the <em>representative</em>.</li>
-      <li>\(\times\) : Multiplying the numbers should equal the <em>representative</em>.</li>
-      <li>\(\div\) : Dividing the larger number by the smaller number should equal the <em>representative</em>.</li>
-    </ul>
-  </li>
-  <li>Use the <em>representative</em> if there’s no operation.</li>
-</ul>
-
-<h2 id="example-game-5x5-55931">Example Game (5x5, #55931)</h2>
-
-<div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        <figure>
-
-  <picture>
-    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/55931-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/55931-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/55931-1400.webp" />
-    
-
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/55931.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="KenKen #55931" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
-
-  </picture>
-
-</figure>
-
-    </div>
-</div>
-
-<ul>
-  <li>Reference: <a href="kenkenpuzzle.com">kenkenpuzzle.com</a></li>
-</ul>]]></content><author><name></name></author><category term="blog" /><category term="puzzles" /><summary type="html"><![CDATA[How to play it]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><category term="blog" /><category term="gallery" /><category term="animal-appreciation" /><summary type="html"><![CDATA[Insect on the floor Pigeons in front of the library of Boğaziçi University]]></summary></entry></feed>
